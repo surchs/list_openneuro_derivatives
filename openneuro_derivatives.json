@@ -2,7 +2,7 @@
     "ds000102": {
         "name": "ds000102",
         "has_participant_tsv": true,
-        "nb_subjects": 52,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds000102",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000102-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000102-fmriprep/tree/main/sourcedata/freesurfer",
@@ -11,7 +11,7 @@
     "ds002411": {
         "name": "ds002411",
         "has_participant_tsv": false,
-        "nb_subjects": 58,
+        "nb_subjects": 29,
         "raw": "https://github.com/OpenNeuroDatasets/ds002411",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002411-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002411-fmriprep/tree/main/sourcedata/freesurfer",
@@ -20,7 +20,7 @@
     "ds001419": {
         "name": "ds001419",
         "has_participant_tsv": false,
-        "nb_subjects": 2,
+        "nb_subjects": 1,
         "raw": "https://github.com/OpenNeuroDatasets/ds001419",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001419-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001419-fmriprep/tree/main/sourcedata/freesurfer",
@@ -29,7 +29,7 @@
     "ds000170": {
         "name": "ds000170",
         "has_participant_tsv": true,
-        "nb_subjects": 30,
+        "nb_subjects": 15,
         "raw": "https://github.com/OpenNeuroDatasets/ds000170",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000170-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000170-fmriprep/tree/main/sourcedata/freesurfer",
@@ -38,7 +38,7 @@
     "ds000144": {
         "name": "ds000144",
         "has_participant_tsv": true,
-        "nb_subjects": 90,
+        "nb_subjects": 45,
         "raw": "https://github.com/OpenNeuroDatasets/ds000144",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000144-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000144-fmriprep/tree/main/sourcedata/freesurfer",
@@ -47,7 +47,7 @@
     "ds000218": {
         "name": "ds000218",
         "has_participant_tsv": false,
-        "nb_subjects": 38,
+        "nb_subjects": 19,
         "raw": "https://github.com/OpenNeuroDatasets/ds000218",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000218-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000218-fmriprep/tree/main/sourcedata/freesurfer",
@@ -56,7 +56,7 @@
     "ds001832": {
         "name": "ds001832",
         "has_participant_tsv": false,
-        "nb_subjects": 32,
+        "nb_subjects": 16,
         "raw": "https://github.com/OpenNeuroDatasets/ds001832",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001832-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001832-fmriprep/tree/main/sourcedata/freesurfer",
@@ -65,7 +65,7 @@
     "ds002687": {
         "name": "ds002687",
         "has_participant_tsv": false,
-        "nb_subjects": 48,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds002687",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002687-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002687-fmriprep/tree/main/sourcedata/freesurfer",
@@ -74,7 +74,7 @@
     "ds000205": {
         "name": "ds000205",
         "has_participant_tsv": true,
-        "nb_subjects": 22,
+        "nb_subjects": 11,
         "raw": "https://github.com/OpenNeuroDatasets/ds000205",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000205-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000205-fmriprep/tree/main/sourcedata/freesurfer",
@@ -83,7 +83,7 @@
     "ds002748": {
         "name": "ds002748",
         "has_participant_tsv": false,
-        "nb_subjects": 144,
+        "nb_subjects": 72,
         "raw": "https://github.com/OpenNeuroDatasets/ds002748",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002748-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002748-fmriprep/tree/main/sourcedata/freesurfer",
@@ -92,7 +92,7 @@
     "ds001748": {
         "name": "ds001748",
         "has_participant_tsv": false,
-        "nb_subjects": 124,
+        "nb_subjects": 62,
         "raw": "https://github.com/OpenNeuroDatasets/ds001748",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001748-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001748-fmriprep/tree/main/sourcedata/freesurfer",
@@ -101,7 +101,7 @@
     "ds003242": {
         "name": "ds003242",
         "has_participant_tsv": false,
-        "nb_subjects": 192,
+        "nb_subjects": 96,
         "raw": "https://github.com/OpenNeuroDatasets/ds003242",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003242-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003242-fmriprep/tree/main/sourcedata/freesurfer",
@@ -110,7 +110,7 @@
     "ds000243": {
         "name": "ds000243",
         "has_participant_tsv": false,
-        "nb_subjects": 240,
+        "nb_subjects": 120,
         "raw": "https://github.com/OpenNeuroDatasets/ds000243",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000243-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000243-fmriprep/tree/main/sourcedata/freesurfer",
@@ -119,7 +119,7 @@
     "ds002898": {
         "name": "ds002898",
         "has_participant_tsv": false,
-        "nb_subjects": 54,
+        "nb_subjects": 27,
         "raw": "https://github.com/OpenNeuroDatasets/ds002898",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002898-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002898-fmriprep/tree/main/sourcedata/freesurfer",
@@ -128,7 +128,7 @@
     "ds000208": {
         "name": "ds000208",
         "has_participant_tsv": true,
-        "nb_subjects": 152,
+        "nb_subjects": 76,
         "raw": "https://github.com/OpenNeuroDatasets/ds000208",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000208-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000208-fmriprep/tree/main/sourcedata/freesurfer",
@@ -137,7 +137,7 @@
     "ds002014": {
         "name": "ds002014",
         "has_participant_tsv": false,
-        "nb_subjects": 2,
+        "nb_subjects": 1,
         "raw": "https://github.com/OpenNeuroDatasets/ds002014",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002014-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002014-fmriprep/tree/main/sourcedata/freesurfer",
@@ -146,7 +146,7 @@
     "ds000228": {
         "name": "ds000228",
         "has_participant_tsv": false,
-        "nb_subjects": 310,
+        "nb_subjects": 155,
         "raw": "https://github.com/OpenNeuroDatasets/ds000228",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000228-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000228-fmriprep/tree/main/sourcedata/freesurfer",
@@ -155,7 +155,7 @@
     "ds000109": {
         "name": "ds000109",
         "has_participant_tsv": false,
-        "nb_subjects": 72,
+        "nb_subjects": 36,
         "raw": "https://github.com/OpenNeuroDatasets/ds000109",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000109-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000109-fmriprep/tree/main/sourcedata/freesurfer",
@@ -164,7 +164,7 @@
     "ds000114": {
         "name": "ds000114",
         "has_participant_tsv": true,
-        "nb_subjects": 20,
+        "nb_subjects": 10,
         "raw": "https://github.com/OpenNeuroDatasets/ds000114",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000114-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000114-fmriprep/tree/main/sourcedata/freesurfer",
@@ -173,7 +173,7 @@
     "ds001734": {
         "name": "ds001734",
         "has_participant_tsv": true,
-        "nb_subjects": 216,
+        "nb_subjects": 108,
         "raw": "https://github.com/OpenNeuroDatasets/ds001734",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001734-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001734-fmriprep/tree/main/sourcedata/freesurfer",
@@ -182,7 +182,7 @@
     "ds000120": {
         "name": "ds000120",
         "has_participant_tsv": true,
-        "nb_subjects": 52,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds000120",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000120-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000120-fmriprep/tree/main/sourcedata/freesurfer",
@@ -191,7 +191,7 @@
     "ds001497": {
         "name": "ds001497",
         "has_participant_tsv": false,
-        "nb_subjects": 18,
+        "nb_subjects": 10,
         "raw": "https://github.com/OpenNeuroDatasets/ds001497",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001497-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001497-fmriprep/tree/main/sourcedata/freesurfer",
@@ -200,7 +200,7 @@
     "ds000157": {
         "name": "ds000157",
         "has_participant_tsv": true,
-        "nb_subjects": 60,
+        "nb_subjects": 30,
         "raw": "https://github.com/OpenNeuroDatasets/ds000157",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000157-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000157-fmriprep/tree/main/sourcedata/freesurfer",
@@ -209,7 +209,7 @@
     "ds002153": {
         "name": "ds002153",
         "has_participant_tsv": false,
-        "nb_subjects": 2,
+        "nb_subjects": 1,
         "raw": "https://github.com/OpenNeuroDatasets/ds002153",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002153-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002153-fmriprep/tree/main/sourcedata/freesurfer",
@@ -218,7 +218,7 @@
     "ds003007": {
         "name": "ds003007",
         "has_participant_tsv": false,
-        "nb_subjects": 58,
+        "nb_subjects": 29,
         "raw": "https://github.com/OpenNeuroDatasets/ds003007",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003007-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003007-fmriprep/tree/main/sourcedata/freesurfer",
@@ -227,7 +227,7 @@
     "ds002422": {
         "name": "ds002422",
         "has_participant_tsv": false,
-        "nb_subjects": 92,
+        "nb_subjects": 46,
         "raw": "https://github.com/OpenNeuroDatasets/ds002422",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002422-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002422-fmriprep/tree/main/sourcedata/freesurfer",
@@ -236,7 +236,7 @@
     "ds000009": {
         "name": "ds000009",
         "has_participant_tsv": true,
-        "nb_subjects": 48,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds000009",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000009-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000009-fmriprep/tree/main/sourcedata/freesurfer",
@@ -245,7 +245,7 @@
     "ds000117": {
         "name": "ds000117",
         "has_participant_tsv": true,
-        "nb_subjects": 32,
+        "nb_subjects": 16,
         "raw": "https://github.com/OpenNeuroDatasets/ds000117",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000117-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000117-fmriprep/tree/main/sourcedata/freesurfer",
@@ -254,7 +254,7 @@
     "ds000008": {
         "name": "ds000008",
         "has_participant_tsv": true,
-        "nb_subjects": 28,
+        "nb_subjects": 14,
         "raw": "https://github.com/OpenNeuroDatasets/ds000008",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000008-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000008-fmriprep/tree/main/sourcedata/freesurfer",
@@ -263,7 +263,7 @@
     "ds001338": {
         "name": "ds001338",
         "has_participant_tsv": false,
-        "nb_subjects": 44,
+        "nb_subjects": 22,
         "raw": "https://github.com/OpenNeuroDatasets/ds001338",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001338-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001338-fmriprep/tree/main/sourcedata/freesurfer",
@@ -272,7 +272,7 @@
     "ds000220": {
         "name": "ds000220",
         "has_participant_tsv": false,
-        "nb_subjects": 52,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds000220",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000220-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000220-fmriprep/tree/main/sourcedata/freesurfer",
@@ -281,7 +281,7 @@
     "ds000213": {
         "name": "ds000213",
         "has_participant_tsv": false,
-        "nb_subjects": 52,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds000213",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000213-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000213-fmriprep/tree/main/sourcedata/freesurfer",
@@ -290,7 +290,7 @@
     "ds003085": {
         "name": "ds003085",
         "has_participant_tsv": false,
-        "nb_subjects": 78,
+        "nb_subjects": 39,
         "raw": "https://github.com/OpenNeuroDatasets/ds003085",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003085-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003085-fmriprep/tree/main/sourcedata/freesurfer",
@@ -299,7 +299,7 @@
     "ds001345": {
         "name": "ds001345",
         "has_participant_tsv": false,
-        "nb_subjects": 24,
+        "nb_subjects": 12,
         "raw": "https://github.com/OpenNeuroDatasets/ds001345",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001345-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001345-fmriprep/tree/main/sourcedata/freesurfer",
@@ -308,7 +308,7 @@
     "ds000105": {
         "name": "ds000105",
         "has_participant_tsv": false,
-        "nb_subjects": 12,
+        "nb_subjects": 6,
         "raw": "https://github.com/OpenNeuroDatasets/ds000105",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000105-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000105-fmriprep/tree/main/sourcedata/freesurfer",
@@ -317,7 +317,7 @@
     "ds002886": {
         "name": "ds002886",
         "has_participant_tsv": false,
-        "nb_subjects": 112,
+        "nb_subjects": 56,
         "raw": "https://github.com/OpenNeuroDatasets/ds002886",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002886-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002886-fmriprep/tree/main/sourcedata/freesurfer",
@@ -326,7 +326,7 @@
     "ds000171": {
         "name": "ds000171",
         "has_participant_tsv": true,
-        "nb_subjects": 78,
+        "nb_subjects": 39,
         "raw": "https://github.com/OpenNeuroDatasets/ds000171",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000171-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000171-fmriprep/tree/main/sourcedata/freesurfer",
@@ -335,7 +335,7 @@
     "ds002336": {
         "name": "ds002336",
         "has_participant_tsv": false,
-        "nb_subjects": 20,
+        "nb_subjects": 10,
         "raw": "https://github.com/OpenNeuroDatasets/ds002336",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002336-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002336-fmriprep/tree/main/sourcedata/freesurfer",
@@ -344,7 +344,7 @@
     "ds000212": {
         "name": "ds000212",
         "has_participant_tsv": true,
-        "nb_subjects": 78,
+        "nb_subjects": 39,
         "raw": "https://github.com/OpenNeuroDatasets/ds000212",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000212-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000212-fmriprep/tree/main/sourcedata/freesurfer",
@@ -353,7 +353,7 @@
     "ds000115": {
         "name": "ds000115",
         "has_participant_tsv": true,
-        "nb_subjects": 198,
+        "nb_subjects": 99,
         "raw": "https://github.com/OpenNeuroDatasets/ds000115",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000115-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000115-fmriprep/tree/main/sourcedata/freesurfer",
@@ -362,7 +362,7 @@
     "ds001226": {
         "name": "ds001226",
         "has_participant_tsv": false,
-        "nb_subjects": 72,
+        "nb_subjects": 36,
         "raw": "https://github.com/OpenNeuroDatasets/ds001226",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001226-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001226-fmriprep/tree/main/sourcedata/freesurfer",
@@ -371,7 +371,7 @@
     "ds002322": {
         "name": "ds002322",
         "has_participant_tsv": false,
-        "nb_subjects": 52,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds002322",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002322-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002322-fmriprep/tree/main/sourcedata/freesurfer",
@@ -380,7 +380,7 @@
     "ds000052": {
         "name": "ds000052",
         "has_participant_tsv": false,
-        "nb_subjects": 26,
+        "nb_subjects": 13,
         "raw": "https://github.com/OpenNeuroDatasets/ds000052",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000052-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000052-fmriprep/tree/main/sourcedata/freesurfer",
@@ -389,7 +389,7 @@
     "ds001612": {
         "name": "ds001612",
         "has_participant_tsv": false,
-        "nb_subjects": 48,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds001612",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001612-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001612-fmriprep/tree/main/sourcedata/freesurfer",
@@ -398,7 +398,7 @@
     "ds000051": {
         "name": "ds000051",
         "has_participant_tsv": false,
-        "nb_subjects": 26,
+        "nb_subjects": 13,
         "raw": "https://github.com/OpenNeuroDatasets/ds000051",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000051-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000051-fmriprep/tree/main/sourcedata/freesurfer",
@@ -407,7 +407,7 @@
     "ds000017": {
         "name": "ds000017",
         "has_participant_tsv": true,
-        "nb_subjects": 16,
+        "nb_subjects": 8,
         "raw": "https://github.com/OpenNeuroDatasets/ds000017",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000017-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000017-fmriprep/tree/main/sourcedata/freesurfer",
@@ -416,7 +416,7 @@
     "ds000001": {
         "name": "ds000001",
         "has_participant_tsv": true,
-        "nb_subjects": 32,
+        "nb_subjects": 16,
         "raw": "https://github.com/OpenNeuroDatasets/ds000001",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000001-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000001-fmriprep/tree/main/sourcedata/freesurfer",
@@ -425,7 +425,7 @@
     "ds000108": {
         "name": "ds000108",
         "has_participant_tsv": true,
-        "nb_subjects": 68,
+        "nb_subjects": 34,
         "raw": "https://github.com/OpenNeuroDatasets/ds000108",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000108-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000108-fmriprep/tree/main/sourcedata/freesurfer",
@@ -434,7 +434,7 @@
     "ds000255": {
         "name": "ds000255",
         "has_participant_tsv": false,
-        "nb_subjects": 4,
+        "nb_subjects": 2,
         "raw": "https://github.com/OpenNeuroDatasets/ds000255",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000255-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000255-fmriprep/tree/main/sourcedata/freesurfer",
@@ -443,7 +443,7 @@
     "ds002013": {
         "name": "ds002013",
         "has_participant_tsv": false,
-        "nb_subjects": 8,
+        "nb_subjects": 4,
         "raw": "https://github.com/OpenNeuroDatasets/ds002013",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002013-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002013-fmriprep/tree/main/sourcedata/freesurfer",
@@ -452,7 +452,7 @@
     "ds000249": {
         "name": "ds000249",
         "has_participant_tsv": false,
-        "nb_subjects": 52,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds000249",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000249-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000249-fmriprep/tree/main/sourcedata/freesurfer",
@@ -461,7 +461,7 @@
     "ds000233": {
         "name": "ds000233",
         "has_participant_tsv": false,
-        "nb_subjects": 24,
+        "nb_subjects": 12,
         "raw": "https://github.com/OpenNeuroDatasets/ds000233",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000233-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000233-fmriprep/tree/main/sourcedata/freesurfer",
@@ -470,7 +470,7 @@
     "ds000101": {
         "name": "ds000101",
         "has_participant_tsv": true,
-        "nb_subjects": 42,
+        "nb_subjects": 21,
         "raw": "https://github.com/OpenNeuroDatasets/ds000101",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000101-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000101-fmriprep/tree/main/sourcedata/freesurfer",
@@ -479,7 +479,7 @@
     "ds002734": {
         "name": "ds002734",
         "has_participant_tsv": false,
-        "nb_subjects": 44,
+        "nb_subjects": 22,
         "raw": "https://github.com/OpenNeuroDatasets/ds002734",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002734-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002734-fmriprep/tree/main/sourcedata/freesurfer",
@@ -488,7 +488,7 @@
     "ds000245": {
         "name": "ds000245",
         "has_participant_tsv": false,
-        "nb_subjects": 90,
+        "nb_subjects": 45,
         "raw": "https://github.com/OpenNeuroDatasets/ds000245",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000245-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000245-fmriprep/tree/main/sourcedata/freesurfer",
@@ -497,7 +497,7 @@
     "ds003338": {
         "name": "ds003338",
         "has_participant_tsv": false,
-        "nb_subjects": 40,
+        "nb_subjects": 20,
         "raw": "https://github.com/OpenNeuroDatasets/ds003338",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003338-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003338-fmriprep/tree/main/sourcedata/freesurfer",
@@ -506,7 +506,7 @@
     "ds000002": {
         "name": "ds000002",
         "has_participant_tsv": true,
-        "nb_subjects": 34,
+        "nb_subjects": 17,
         "raw": "https://github.com/OpenNeuroDatasets/ds000002",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000002-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000002-fmriprep/tree/main/sourcedata/freesurfer",
@@ -515,7 +515,7 @@
     "ds002156": {
         "name": "ds002156",
         "has_participant_tsv": false,
-        "nb_subjects": 2,
+        "nb_subjects": 1,
         "raw": "https://github.com/OpenNeuroDatasets/ds002156",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002156-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002156-fmriprep/tree/main/sourcedata/freesurfer",
@@ -524,7 +524,7 @@
     "ds002338": {
         "name": "ds002338",
         "has_participant_tsv": true,
-        "nb_subjects": 34,
+        "nb_subjects": 17,
         "raw": "https://github.com/OpenNeuroDatasets/ds002338",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002338-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002338-fmriprep/tree/main/sourcedata/freesurfer",
@@ -533,7 +533,7 @@
     "ds003548": {
         "name": "ds003548",
         "has_participant_tsv": false,
-        "nb_subjects": 32,
+        "nb_subjects": 16,
         "raw": "https://github.com/OpenNeuroDatasets/ds003548",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003548-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003548-fmriprep/tree/main/sourcedata/freesurfer",
@@ -542,7 +542,7 @@
     "ds000237": {
         "name": "ds000237",
         "has_participant_tsv": false,
-        "nb_subjects": 26,
+        "nb_subjects": 13,
         "raw": "https://github.com/OpenNeuroDatasets/ds000237",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000237-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000237-fmriprep/tree/main/sourcedata/freesurfer",
@@ -551,7 +551,7 @@
     "ds003020": {
         "name": "ds003020",
         "has_participant_tsv": false,
-        "nb_subjects": 16,
+        "nb_subjects": 8,
         "raw": "https://github.com/OpenNeuroDatasets/ds003020",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003020-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003020-fmriprep/tree/main/sourcedata/freesurfer",
@@ -560,7 +560,7 @@
     "ds003011": {
         "name": "ds003011",
         "has_participant_tsv": true,
-        "nb_subjects": 82,
+        "nb_subjects": 4,
         "raw": "https://github.com/OpenNeuroDatasets/ds003011",
         "fmriprep": null,
         "freesurfer": null,
@@ -569,7 +569,7 @@
     "ds002316": {
         "name": "ds002316",
         "has_participant_tsv": false,
-        "nb_subjects": 330,
+        "nb_subjects": 36,
         "raw": "https://github.com/OpenNeuroDatasets/ds002316",
         "fmriprep": null,
         "freesurfer": null,
@@ -578,7 +578,7 @@
     "ds003146": {
         "name": "ds003146",
         "has_participant_tsv": true,
-        "nb_subjects": 99,
+        "nb_subjects": 33,
         "raw": "https://github.com/OpenNeuroDatasets/ds003146",
         "fmriprep": null,
         "freesurfer": null,
@@ -587,7 +587,7 @@
     "ds002596": {
         "name": "ds002596",
         "has_participant_tsv": false,
-        "nb_subjects": 266,
+        "nb_subjects": 19,
         "raw": "https://github.com/OpenNeuroDatasets/ds002596",
         "fmriprep": null,
         "freesurfer": null,
@@ -596,7 +596,7 @@
     "ds002785": {
         "name": "ds002785",
         "has_participant_tsv": false,
-        "nb_subjects": 1545,
+        "nb_subjects": 200,
         "raw": "https://github.com/OpenNeuroDatasets/ds002785",
         "fmriprep": null,
         "freesurfer": null,
@@ -604,8 +604,8 @@
     },
     "ds001838": {
         "name": "ds001838",
-        "has_participant_tsv": false,
-        "nb_subjects": 317,
+        "has_participant_tsv": true,
+        "nb_subjects": 53,
         "raw": "https://github.com/OpenNeuroDatasets/ds001838",
         "fmriprep": null,
         "freesurfer": null,
@@ -614,7 +614,7 @@
     "ds003545": {
         "name": "ds003545",
         "has_participant_tsv": false,
-        "nb_subjects": 437,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds003545",
         "fmriprep": null,
         "freesurfer": null,
@@ -623,7 +623,7 @@
     "ds002797": {
         "name": "ds002797",
         "has_participant_tsv": false,
-        "nb_subjects": 242,
+        "nb_subjects": 22,
         "raw": "https://github.com/OpenNeuroDatasets/ds002797",
         "fmriprep": null,
         "freesurfer": null,
@@ -632,7 +632,7 @@
     "ds003424": {
         "name": "ds003424",
         "has_participant_tsv": false,
-        "nb_subjects": 194,
+        "nb_subjects": 28,
         "raw": "https://github.com/OpenNeuroDatasets/ds003424",
         "fmriprep": null,
         "freesurfer": null,
@@ -641,7 +641,7 @@
     "ds001883": {
         "name": "ds001883",
         "has_participant_tsv": false,
-        "nb_subjects": 208,
+        "nb_subjects": 21,
         "raw": "https://github.com/OpenNeuroDatasets/ds001883",
         "fmriprep": null,
         "freesurfer": null,
@@ -650,7 +650,7 @@
     "ds003612": {
         "name": "ds003612",
         "has_participant_tsv": false,
-        "nb_subjects": 191,
+        "nb_subjects": 48,
         "raw": "https://github.com/OpenNeuroDatasets/ds003612",
         "fmriprep": null,
         "freesurfer": null,
@@ -659,7 +659,7 @@
     "ds000256": {
         "name": "ds000256",
         "has_participant_tsv": false,
-        "nb_subjects": 232,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds000256",
         "fmriprep": null,
         "freesurfer": null,
@@ -668,7 +668,7 @@
     "ds003752": {
         "name": "ds003752",
         "has_participant_tsv": false,
-        "nb_subjects": 128,
+        "nb_subjects": 3,
         "raw": "https://github.com/OpenNeuroDatasets/ds003752",
         "fmriprep": null,
         "freesurfer": null,
@@ -677,7 +677,7 @@
     "ds002549": {
         "name": "ds002549",
         "has_participant_tsv": false,
-        "nb_subjects": 13,
+        "nb_subjects": 1,
         "raw": "https://github.com/OpenNeuroDatasets/ds002549",
         "fmriprep": null,
         "freesurfer": null,
@@ -686,7 +686,7 @@
     "ds001715": {
         "name": "ds001715",
         "has_participant_tsv": false,
-        "nb_subjects": 476,
+        "nb_subjects": 34,
         "raw": "https://github.com/OpenNeuroDatasets/ds001715",
         "fmriprep": null,
         "freesurfer": null,
@@ -695,7 +695,7 @@
     "ds003858": {
         "name": "ds003858",
         "has_participant_tsv": false,
-        "nb_subjects": 60,
+        "nb_subjects": 12,
         "raw": "https://github.com/OpenNeuroDatasets/ds003858",
         "fmriprep": null,
         "freesurfer": null,
@@ -704,7 +704,7 @@
     "ds003720": {
         "name": "ds003720",
         "has_participant_tsv": false,
-        "nb_subjects": 100,
+        "nb_subjects": 5,
         "raw": "https://github.com/OpenNeuroDatasets/ds003720",
         "fmriprep": null,
         "freesurfer": null,
@@ -713,7 +713,7 @@
     "ds000148": {
         "name": "ds000148",
         "has_participant_tsv": true,
-        "nb_subjects": 343,
+        "nb_subjects": 49,
         "raw": "https://github.com/OpenNeuroDatasets/ds000148",
         "fmriprep": null,
         "freesurfer": null,
@@ -722,7 +722,7 @@
     "ds003764": {
         "name": "ds003764",
         "has_participant_tsv": false,
-        "nb_subjects": 480,
+        "nb_subjects": 60,
         "raw": "https://github.com/OpenNeuroDatasets/ds003764",
         "fmriprep": null,
         "freesurfer": null,
@@ -731,7 +731,7 @@
     "ds000011": {
         "name": "ds000011",
         "has_participant_tsv": true,
-        "nb_subjects": 112,
+        "nb_subjects": 14,
         "raw": "https://github.com/OpenNeuroDatasets/ds000011",
         "fmriprep": null,
         "freesurfer": null,
@@ -740,7 +740,7 @@
     "ds003495": {
         "name": "ds003495",
         "has_participant_tsv": false,
-        "nb_subjects": 210,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds003495",
         "fmriprep": null,
         "freesurfer": null,
@@ -749,7 +749,7 @@
     "ds002363": {
         "name": "ds002363",
         "has_participant_tsv": false,
-        "nb_subjects": 88,
+        "nb_subjects": 22,
         "raw": "https://github.com/OpenNeuroDatasets/ds002363",
         "fmriprep": null,
         "freesurfer": null,
@@ -758,7 +758,7 @@
     "ds001745": {
         "name": "ds001745",
         "has_participant_tsv": false,
-        "nb_subjects": 312,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds001745",
         "fmriprep": null,
         "freesurfer": null,
@@ -767,7 +767,7 @@
     "ds001145": {
         "name": "ds001145",
         "has_participant_tsv": false,
-        "nb_subjects": 72,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds001145",
         "fmriprep": null,
         "freesurfer": null,
@@ -776,7 +776,7 @@
     "ds002727": {
         "name": "ds002727",
         "has_participant_tsv": false,
-        "nb_subjects": 115,
+        "nb_subjects": 23,
         "raw": "https://github.com/OpenNeuroDatasets/ds002727",
         "fmriprep": null,
         "freesurfer": null,
@@ -785,7 +785,7 @@
     "ds003717": {
         "name": "ds003717",
         "has_participant_tsv": false,
-        "nb_subjects": 540,
+        "nb_subjects": 60,
         "raw": "https://github.com/OpenNeuroDatasets/ds003717",
         "fmriprep": null,
         "freesurfer": null,
@@ -794,7 +794,7 @@
     "ds002608": {
         "name": "ds002608",
         "has_participant_tsv": false,
-        "nb_subjects": 123,
+        "nb_subjects": 41,
         "raw": "https://github.com/OpenNeuroDatasets/ds002608",
         "fmriprep": null,
         "freesurfer": null,
@@ -803,7 +803,7 @@
     "ds000005": {
         "name": "ds000005",
         "has_participant_tsv": true,
-        "nb_subjects": 80,
+        "nb_subjects": 16,
         "raw": "https://github.com/OpenNeuroDatasets/ds000005",
         "fmriprep": null,
         "freesurfer": null,
@@ -812,7 +812,7 @@
     "ds003782": {
         "name": "ds003782",
         "has_participant_tsv": false,
-        "nb_subjects": 521,
+        "nb_subjects": 40,
         "raw": "https://github.com/OpenNeuroDatasets/ds003782",
         "fmriprep": null,
         "freesurfer": null,
@@ -821,7 +821,7 @@
     "ds003500": {
         "name": "ds003500",
         "has_participant_tsv": false,
-        "nb_subjects": 326,
+        "nb_subjects": 38,
         "raw": "https://github.com/OpenNeuroDatasets/ds003500",
         "fmriprep": null,
         "freesurfer": null,
@@ -830,7 +830,7 @@
     "ds002000": {
         "name": "ds002000",
         "has_participant_tsv": false,
-        "nb_subjects": 210,
+        "nb_subjects": 21,
         "raw": "https://github.com/OpenNeuroDatasets/ds002000",
         "fmriprep": null,
         "freesurfer": null,
@@ -839,7 +839,7 @@
     "ds003487": {
         "name": "ds003487",
         "has_participant_tsv": false,
-        "nb_subjects": 96,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds003487",
         "fmriprep": null,
         "freesurfer": null,
@@ -848,7 +848,7 @@
     "ds004006": {
         "name": "ds004006",
         "has_participant_tsv": false,
-        "nb_subjects": 440,
+        "nb_subjects": 41,
         "raw": "https://github.com/OpenNeuroDatasets/ds004006",
         "fmriprep": null,
         "freesurfer": null,
@@ -857,7 +857,7 @@
     "ds001818": {
         "name": "ds001818",
         "has_participant_tsv": false,
-        "nb_subjects": 1108,
+        "nb_subjects": 50,
         "raw": "https://github.com/OpenNeuroDatasets/ds001818",
         "fmriprep": null,
         "freesurfer": null,
@@ -866,7 +866,7 @@
     "ds001297": {
         "name": "ds001297",
         "has_participant_tsv": false,
-        "nb_subjects": 457,
+        "nb_subjects": 33,
         "raw": "https://github.com/OpenNeuroDatasets/ds001297",
         "fmriprep": null,
         "freesurfer": null,
@@ -875,7 +875,7 @@
     "ds002424": {
         "name": "ds002424",
         "has_participant_tsv": false,
-        "nb_subjects": 704,
+        "nb_subjects": 79,
         "raw": "https://github.com/OpenNeuroDatasets/ds002424",
         "fmriprep": null,
         "freesurfer": null,
@@ -884,7 +884,7 @@
     "ds004280": {
         "name": "ds004280",
         "has_participant_tsv": false,
-        "nb_subjects": 22,
+        "nb_subjects": 2,
         "raw": "https://github.com/OpenNeuroDatasets/ds004280",
         "fmriprep": null,
         "freesurfer": null,
@@ -893,7 +893,7 @@
     "ds001907": {
         "name": "ds001907",
         "has_participant_tsv": false,
-        "nb_subjects": 690,
+        "nb_subjects": 46,
         "raw": "https://github.com/OpenNeuroDatasets/ds001907",
         "fmriprep": null,
         "freesurfer": null,
@@ -902,7 +902,7 @@
     "ds004073": {
         "name": "ds004073",
         "has_participant_tsv": false,
-        "nb_subjects": 399,
+        "nb_subjects": 50,
         "raw": "https://github.com/OpenNeuroDatasets/ds004073",
         "fmriprep": null,
         "freesurfer": null,
@@ -911,7 +911,7 @@
     "ds001847": {
         "name": "ds001847",
         "has_participant_tsv": false,
-        "nb_subjects": 192,
+        "nb_subjects": 32,
         "raw": "https://github.com/OpenNeuroDatasets/ds001847",
         "fmriprep": null,
         "freesurfer": null,
@@ -920,7 +920,7 @@
     "ds001178": {
         "name": "ds001178",
         "has_participant_tsv": false,
-        "nb_subjects": 46,
+        "nb_subjects": 23,
         "raw": "https://github.com/OpenNeuroDatasets/ds001178",
         "fmriprep": null,
         "freesurfer": null,
@@ -929,7 +929,7 @@
     "ds002574": {
         "name": "ds002574",
         "has_participant_tsv": false,
-        "nb_subjects": 114,
+        "nb_subjects": 3,
         "raw": "https://github.com/OpenNeuroDatasets/ds002574",
         "fmriprep": null,
         "freesurfer": null,
@@ -938,7 +938,7 @@
     "ds002848": {
         "name": "ds002848",
         "has_participant_tsv": false,
-        "nb_subjects": 15,
+        "nb_subjects": 5,
         "raw": "https://github.com/OpenNeuroDatasets/ds002848",
         "fmriprep": null,
         "freesurfer": null,
@@ -947,7 +947,7 @@
     "ds000053": {
         "name": "ds000053",
         "has_participant_tsv": true,
-        "nb_subjects": 590,
+        "nb_subjects": 59,
         "raw": "https://github.com/OpenNeuroDatasets/ds000053",
         "fmriprep": null,
         "freesurfer": null,
@@ -956,7 +956,7 @@
     "ds000253": {
         "name": "ds000253",
         "has_participant_tsv": false,
-        "nb_subjects": 140,
+        "nb_subjects": 20,
         "raw": "https://github.com/OpenNeuroDatasets/ds000253",
         "fmriprep": null,
         "freesurfer": null,
@@ -965,7 +965,7 @@
     "ds003791": {
         "name": "ds003791",
         "has_participant_tsv": false,
-        "nb_subjects": 294,
+        "nb_subjects": 49,
         "raw": "https://github.com/OpenNeuroDatasets/ds003791",
         "fmriprep": null,
         "freesurfer": null,
@@ -974,7 +974,7 @@
     "ds002715": {
         "name": "ds002715",
         "has_participant_tsv": false,
-        "nb_subjects": 42,
+        "nb_subjects": 7,
         "raw": "https://github.com/OpenNeuroDatasets/ds002715",
         "fmriprep": null,
         "freesurfer": null,
@@ -983,7 +983,7 @@
     "ds001399": {
         "name": "ds001399",
         "has_participant_tsv": false,
-        "nb_subjects": 35,
+        "nb_subjects": 3,
         "raw": "https://github.com/OpenNeuroDatasets/ds001399",
         "fmriprep": null,
         "freesurfer": null,
@@ -992,7 +992,7 @@
     "ds003433": {
         "name": "ds003433",
         "has_participant_tsv": false,
-        "nb_subjects": 71,
+        "nb_subjects": 18,
         "raw": "https://github.com/OpenNeuroDatasets/ds003433",
         "fmriprep": null,
         "freesurfer": null,
@@ -1001,7 +1001,7 @@
     "ds002294": {
         "name": "ds002294",
         "has_participant_tsv": false,
-        "nb_subjects": 240,
+        "nb_subjects": 40,
         "raw": "https://github.com/OpenNeuroDatasets/ds002294",
         "fmriprep": null,
         "freesurfer": null,
@@ -1010,7 +1010,7 @@
     "ds001597": {
         "name": "ds001597",
         "has_participant_tsv": false,
-        "nb_subjects": 376,
+        "nb_subjects": 20,
         "raw": "https://github.com/OpenNeuroDatasets/ds001597",
         "fmriprep": null,
         "freesurfer": null,
@@ -1019,7 +1019,7 @@
     "ds003441": {
         "name": "ds003441",
         "has_participant_tsv": false,
-        "nb_subjects": 17,
+        "nb_subjects": 2,
         "raw": "https://github.com/OpenNeuroDatasets/ds003441",
         "fmriprep": null,
         "freesurfer": null,
@@ -1028,7 +1028,7 @@
     "ds001927": {
         "name": "ds001927",
         "has_participant_tsv": false,
-        "nb_subjects": 230,
+        "nb_subjects": 23,
         "raw": "https://github.com/OpenNeuroDatasets/ds001927",
         "fmriprep": null,
         "freesurfer": null,
@@ -1037,7 +1037,7 @@
     "ds003542": {
         "name": "ds003542",
         "has_participant_tsv": false,
-        "nb_subjects": 388,
+        "nb_subjects": 34,
         "raw": "https://github.com/OpenNeuroDatasets/ds003542",
         "fmriprep": null,
         "freesurfer": null,
@@ -1046,7 +1046,7 @@
     "ds001882": {
         "name": "ds001882",
         "has_participant_tsv": false,
-        "nb_subjects": 198,
+        "nb_subjects": 20,
         "raw": "https://github.com/OpenNeuroDatasets/ds001882",
         "fmriprep": null,
         "freesurfer": null,
@@ -1055,7 +1055,7 @@
     "ds002522": {
         "name": "ds002522",
         "has_participant_tsv": false,
-        "nb_subjects": 331,
+        "nb_subjects": 48,
         "raw": "https://github.com/OpenNeuroDatasets/ds002522",
         "fmriprep": null,
         "freesurfer": null,
@@ -1064,7 +1064,7 @@
     "ds000003": {
         "name": "ds000003",
         "has_participant_tsv": true,
-        "nb_subjects": 39,
+        "nb_subjects": 13,
         "raw": "https://github.com/OpenNeuroDatasets/ds000003",
         "fmriprep": null,
         "freesurfer": null,
@@ -1073,7 +1073,7 @@
     "ds003114": {
         "name": "ds003114",
         "has_participant_tsv": false,
-        "nb_subjects": 147,
+        "nb_subjects": 49,
         "raw": "https://github.com/OpenNeuroDatasets/ds003114",
         "fmriprep": null,
         "freesurfer": null,
@@ -1082,7 +1082,7 @@
     "ds002345": {
         "name": "ds002345",
         "has_participant_tsv": false,
-        "nb_subjects": 1393,
+        "nb_subjects": 300,
         "raw": "https://github.com/OpenNeuroDatasets/ds002345",
         "fmriprep": null,
         "freesurfer": null,
@@ -1091,7 +1091,7 @@
     "ds002655": {
         "name": "ds002655",
         "has_participant_tsv": false,
-        "nb_subjects": 210,
+        "nb_subjects": 35,
         "raw": "https://github.com/OpenNeuroDatasets/ds002655",
         "fmriprep": null,
         "freesurfer": null,
@@ -1100,7 +1100,7 @@
     "ds001491": {
         "name": "ds001491",
         "has_participant_tsv": false,
-        "nb_subjects": 325,
+        "nb_subjects": 20,
         "raw": "https://github.com/OpenNeuroDatasets/ds001491",
         "fmriprep": null,
         "freesurfer": null,
@@ -1109,7 +1109,7 @@
     "ds002790": {
         "name": "ds002790",
         "has_participant_tsv": false,
-        "nb_subjects": 1192,
+        "nb_subjects": 200,
         "raw": "https://github.com/OpenNeuroDatasets/ds002790",
         "fmriprep": null,
         "freesurfer": null,
@@ -1118,7 +1118,7 @@
     "ds000121": {
         "name": "ds000121",
         "has_participant_tsv": true,
-        "nb_subjects": 162,
+        "nb_subjects": 28,
         "raw": "https://github.com/OpenNeuroDatasets/ds000121",
         "fmriprep": null,
         "freesurfer": null,
@@ -1127,7 +1127,7 @@
     "ds003037": {
         "name": "ds003037",
         "has_participant_tsv": false,
-        "nb_subjects": 357,
+        "nb_subjects": 53,
         "raw": "https://github.com/OpenNeuroDatasets/ds003037",
         "fmriprep": null,
         "freesurfer": null,
@@ -1136,7 +1136,7 @@
     "ds002006": {
         "name": "ds002006",
         "has_participant_tsv": false,
-        "nb_subjects": 357,
+        "nb_subjects": 30,
         "raw": "https://github.com/OpenNeuroDatasets/ds002006",
         "fmriprep": null,
         "freesurfer": null,
@@ -1145,7 +1145,7 @@
     "ds001761": {
         "name": "ds001761",
         "has_participant_tsv": false,
-        "nb_subjects": 479,
+        "nb_subjects": 4,
         "raw": "https://github.com/OpenNeuroDatasets/ds001761",
         "fmriprep": null,
         "freesurfer": null,
@@ -1154,7 +1154,7 @@
     "ds002735": {
         "name": "ds002735",
         "has_participant_tsv": false,
-        "nb_subjects": 75,
+        "nb_subjects": 11,
         "raw": "https://github.com/OpenNeuroDatasets/ds002735",
         "fmriprep": null,
         "freesurfer": null,
@@ -1163,7 +1163,7 @@
     "ds004128": {
         "name": "ds004128",
         "has_participant_tsv": false,
-        "nb_subjects": 128,
+        "nb_subjects": 32,
         "raw": "https://github.com/OpenNeuroDatasets/ds004128",
         "fmriprep": null,
         "freesurfer": null,
@@ -1172,7 +1172,7 @@
     "ds001848": {
         "name": "ds001848",
         "has_participant_tsv": false,
-        "nb_subjects": 260,
+        "nb_subjects": 52,
         "raw": "https://github.com/OpenNeuroDatasets/ds001848",
         "fmriprep": null,
         "freesurfer": null,
@@ -1181,7 +1181,7 @@
     "ds000254": {
         "name": "ds000254",
         "has_participant_tsv": false,
-        "nb_subjects": 78,
+        "nb_subjects": 13,
         "raw": "https://github.com/OpenNeuroDatasets/ds000254",
         "fmriprep": null,
         "freesurfer": null,
@@ -1190,7 +1190,7 @@
     "ds003521": {
         "name": "ds003521",
         "has_participant_tsv": false,
-        "nb_subjects": 105,
+        "nb_subjects": 35,
         "raw": "https://github.com/OpenNeuroDatasets/ds003521",
         "fmriprep": null,
         "freesurfer": null,
@@ -1199,7 +1199,7 @@
     "ds002236": {
         "name": "ds002236",
         "has_participant_tsv": false,
-        "nb_subjects": 1028,
+        "nb_subjects": 91,
         "raw": "https://github.com/OpenNeuroDatasets/ds002236",
         "fmriprep": null,
         "freesurfer": null,
@@ -1208,7 +1208,7 @@
     "ds003465": {
         "name": "ds003465",
         "has_participant_tsv": false,
-        "nb_subjects": 603,
+        "nb_subjects": 55,
         "raw": "https://github.com/OpenNeuroDatasets/ds003465",
         "fmriprep": null,
         "freesurfer": null,
@@ -1217,7 +1217,7 @@
     "ds001534": {
         "name": "ds001534",
         "has_participant_tsv": false,
-        "nb_subjects": 252,
+        "nb_subjects": 42,
         "raw": "https://github.com/OpenNeuroDatasets/ds001534",
         "fmriprep": null,
         "freesurfer": null,
@@ -1226,7 +1226,7 @@
     "ds002011": {
         "name": "ds002011",
         "has_participant_tsv": false,
-        "nb_subjects": 154,
+        "nb_subjects": 22,
         "raw": "https://github.com/OpenNeuroDatasets/ds002011",
         "fmriprep": null,
         "freesurfer": null,
@@ -1235,7 +1235,7 @@
     "ds000231": {
         "name": "ds000231",
         "has_participant_tsv": false,
-        "nb_subjects": 45,
+        "nb_subjects": 9,
         "raw": "https://github.com/OpenNeuroDatasets/ds000231",
         "fmriprep": null,
         "freesurfer": null,
@@ -1244,7 +1244,7 @@
     "ds001576": {
         "name": "ds001576",
         "has_participant_tsv": false,
-        "nb_subjects": 289,
+        "nb_subjects": 36,
         "raw": "https://github.com/OpenNeuroDatasets/ds001576",
         "fmriprep": null,
         "freesurfer": null,
@@ -1253,7 +1253,7 @@
     "ds001353": {
         "name": "ds001353",
         "has_participant_tsv": false,
-        "nb_subjects": 116,
+        "nb_subjects": 29,
         "raw": "https://github.com/OpenNeuroDatasets/ds001353",
         "fmriprep": null,
         "freesurfer": null,
@@ -1262,7 +1262,7 @@
     "ds001595": {
         "name": "ds001595",
         "has_participant_tsv": false,
-        "nb_subjects": 4,
+        "nb_subjects": 1,
         "raw": "https://github.com/OpenNeuroDatasets/ds001595",
         "fmriprep": null,
         "freesurfer": null,
@@ -1271,7 +1271,7 @@
     "ds000006": {
         "name": "ds000006",
         "has_participant_tsv": true,
-        "nb_subjects": 204,
+        "nb_subjects": 14,
         "raw": "https://github.com/OpenNeuroDatasets/ds000006",
         "fmriprep": null,
         "freesurfer": null,
@@ -1280,7 +1280,7 @@
     "ds003972": {
         "name": "ds003972",
         "has_participant_tsv": false,
-        "nb_subjects": 46,
+        "nb_subjects": 8,
         "raw": "https://github.com/OpenNeuroDatasets/ds003972",
         "fmriprep": null,
         "freesurfer": null,
@@ -1289,7 +1289,7 @@
     "ds002382": {
         "name": "ds002382",
         "has_participant_tsv": false,
-        "nb_subjects": 427,
+        "nb_subjects": 61,
         "raw": "https://github.com/OpenNeuroDatasets/ds002382",
         "fmriprep": null,
         "freesurfer": null,
@@ -1298,7 +1298,7 @@
     "ds002896": {
         "name": "ds002896",
         "has_participant_tsv": false,
-        "nb_subjects": 114,
+        "nb_subjects": 38,
         "raw": "https://github.com/OpenNeuroDatasets/ds002896",
         "fmriprep": null,
         "freesurfer": null,
@@ -1307,7 +1307,7 @@
     "ds003481": {
         "name": "ds003481",
         "has_participant_tsv": false,
-        "nb_subjects": 862,
+        "nb_subjects": 145,
         "raw": "https://github.com/OpenNeuroDatasets/ds003481",
         "fmriprep": null,
         "freesurfer": null,
@@ -1316,7 +1316,7 @@
     "ds001921": {
         "name": "ds001921",
         "has_participant_tsv": false,
-        "nb_subjects": 60,
+        "nb_subjects": 15,
         "raw": "https://github.com/OpenNeuroDatasets/ds001921",
         "fmriprep": null,
         "freesurfer": null,
@@ -1325,7 +1325,7 @@
     "ds002841": {
         "name": "ds002841",
         "has_participant_tsv": false,
-        "nb_subjects": 232,
+        "nb_subjects": 29,
         "raw": "https://github.com/OpenNeuroDatasets/ds002841",
         "fmriprep": null,
         "freesurfer": null,
@@ -1334,7 +1334,7 @@
     "ds002306": {
         "name": "ds002306",
         "has_participant_tsv": false,
-        "nb_subjects": 120,
+        "nb_subjects": 6,
         "raw": "https://github.com/OpenNeuroDatasets/ds002306",
         "fmriprep": null,
         "freesurfer": null,
@@ -1343,7 +1343,7 @@
     "ds002835": {
         "name": "ds002835",
         "has_participant_tsv": false,
-        "nb_subjects": 156,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds002835",
         "fmriprep": null,
         "freesurfer": null,
@@ -1352,7 +1352,7 @@
     "ds001371": {
         "name": "ds001371",
         "has_participant_tsv": false,
-        "nb_subjects": 374,
+        "nb_subjects": 47,
         "raw": "https://github.com/OpenNeuroDatasets/ds001371",
         "fmriprep": null,
         "freesurfer": null,
@@ -1361,7 +1361,7 @@
     "ds003017": {
         "name": "ds003017",
         "has_participant_tsv": false,
-        "nb_subjects": 175,
+        "nb_subjects": 25,
         "raw": "https://github.com/OpenNeuroDatasets/ds003017",
         "fmriprep": null,
         "freesurfer": null,
@@ -1370,7 +1370,7 @@
     "ds002080": {
         "name": "ds002080",
         "has_participant_tsv": false,
-        "nb_subjects": 87,
+        "nb_subjects": 29,
         "raw": "https://github.com/OpenNeuroDatasets/ds002080",
         "fmriprep": null,
         "freesurfer": null,
@@ -1379,7 +1379,7 @@
     "ds001131": {
         "name": "ds001131",
         "has_participant_tsv": false,
-        "nb_subjects": 180,
+        "nb_subjects": 54,
         "raw": "https://github.com/OpenNeuroDatasets/ds001131",
         "fmriprep": null,
         "freesurfer": null,
@@ -1388,7 +1388,7 @@
     "ds000116": {
         "name": "ds000116",
         "has_participant_tsv": true,
-        "nb_subjects": 136,
+        "nb_subjects": 17,
         "raw": "https://github.com/OpenNeuroDatasets/ds000116",
         "fmriprep": null,
         "freesurfer": null,
@@ -1397,7 +1397,7 @@
     "ds001614": {
         "name": "ds001614",
         "has_participant_tsv": false,
-        "nb_subjects": 276,
+        "nb_subjects": 31,
         "raw": "https://github.com/OpenNeuroDatasets/ds001614",
         "fmriprep": null,
         "freesurfer": null,
@@ -1406,7 +1406,7 @@
     "ds001242": {
         "name": "ds001242",
         "has_participant_tsv": false,
-        "nb_subjects": 466,
+        "nb_subjects": 52,
         "raw": "https://github.com/OpenNeuroDatasets/ds001242",
         "fmriprep": null,
         "freesurfer": null,
@@ -1415,7 +1415,7 @@
     "ds000223": {
         "name": "ds000223",
         "has_participant_tsv": false,
-        "nb_subjects": 116,
+        "nb_subjects": 19,
         "raw": "https://github.com/OpenNeuroDatasets/ds000223",
         "fmriprep": null,
         "freesurfer": null,
@@ -1424,7 +1424,7 @@
     "ds001486": {
         "name": "ds001486",
         "has_participant_tsv": false,
-        "nb_subjects": 1687,
+        "nb_subjects": 132,
         "raw": "https://github.com/OpenNeuroDatasets/ds001486",
         "fmriprep": null,
         "freesurfer": null,
@@ -1433,7 +1433,7 @@
     "ds000203": {
         "name": "ds000203",
         "has_participant_tsv": true,
-        "nb_subjects": 104,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds000203",
         "fmriprep": null,
         "freesurfer": null,
@@ -1442,7 +1442,7 @@
     "ds003434": {
         "name": "ds003434",
         "has_participant_tsv": false,
-        "nb_subjects": 148,
+        "nb_subjects": 18,
         "raw": "https://github.com/OpenNeuroDatasets/ds003434",
         "fmriprep": null,
         "freesurfer": null,
@@ -1451,7 +1451,7 @@
     "ds000229": {
         "name": "ds000229",
         "has_participant_tsv": false,
-        "nb_subjects": 74,
+        "nb_subjects": 15,
         "raw": "https://github.com/OpenNeuroDatasets/ds000229",
         "fmriprep": null,
         "freesurfer": null,
@@ -1460,7 +1460,7 @@
     "ds003397": {
         "name": "ds003397",
         "has_participant_tsv": false,
-        "nb_subjects": 45,
+        "nb_subjects": 15,
         "raw": "https://github.com/OpenNeuroDatasets/ds003397",
         "fmriprep": null,
         "freesurfer": null,
@@ -1469,7 +1469,7 @@
     "ds001339": {
         "name": "ds001339",
         "has_participant_tsv": false,
-        "nb_subjects": 110,
+        "nb_subjects": 14,
         "raw": "https://github.com/OpenNeuroDatasets/ds001339",
         "fmriprep": null,
         "freesurfer": null,
@@ -1478,7 +1478,7 @@
     "ds003469": {
         "name": "ds003469",
         "has_participant_tsv": false,
-        "nb_subjects": 243,
+        "nb_subjects": 81,
         "raw": "https://github.com/OpenNeuroDatasets/ds003469",
         "fmriprep": null,
         "freesurfer": null,
@@ -1487,7 +1487,7 @@
     "ds000030": {
         "name": "ds000030",
         "has_participant_tsv": true,
-        "nb_subjects": 2541,
+        "nb_subjects": 272,
         "raw": "https://github.com/OpenNeuroDatasets/ds000030",
         "fmriprep": null,
         "freesurfer": null,
@@ -1496,7 +1496,7 @@
     "ds003097": {
         "name": "ds003097",
         "has_participant_tsv": false,
-        "nb_subjects": 4577,
+        "nb_subjects": 928,
         "raw": "https://github.com/OpenNeuroDatasets/ds003097",
         "fmriprep": null,
         "freesurfer": null,
@@ -1505,7 +1505,7 @@
     "ds001634": {
         "name": "ds001634",
         "has_participant_tsv": false,
-        "nb_subjects": 95,
+        "nb_subjects": 19,
         "raw": "https://github.com/OpenNeuroDatasets/ds001634",
         "fmriprep": null,
         "freesurfer": null,
@@ -1514,7 +1514,7 @@
     "ds002711": {
         "name": "ds002711",
         "has_participant_tsv": false,
-        "nb_subjects": 60,
+        "nb_subjects": 15,
         "raw": "https://github.com/OpenNeuroDatasets/ds002711",
         "fmriprep": null,
         "freesurfer": null,
@@ -1523,7 +1523,7 @@
     "ds004086": {
         "name": "ds004086",
         "has_participant_tsv": false,
-        "nb_subjects": 348,
+        "nb_subjects": 58,
         "raw": "https://github.com/OpenNeuroDatasets/ds004086",
         "fmriprep": null,
         "freesurfer": null,
@@ -1532,7 +1532,7 @@
     "ds001344": {
         "name": "ds001344",
         "has_participant_tsv": false,
-        "nb_subjects": 105,
+        "nb_subjects": 15,
         "raw": "https://github.com/OpenNeuroDatasets/ds001344",
         "fmriprep": null,
         "freesurfer": null,
@@ -1541,7 +1541,7 @@
     "ds001840": {
         "name": "ds001840",
         "has_participant_tsv": false,
-        "nb_subjects": 144,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds001840",
         "fmriprep": null,
         "freesurfer": null,
@@ -1550,7 +1550,7 @@
     "ds000219": {
         "name": "ds000219",
         "has_participant_tsv": false,
-        "nb_subjects": 120,
+        "nb_subjects": 21,
         "raw": "https://github.com/OpenNeuroDatasets/ds000219",
         "fmriprep": null,
         "freesurfer": null,
@@ -1559,7 +1559,7 @@
     "ds001923": {
         "name": "ds001923",
         "has_participant_tsv": false,
-        "nb_subjects": 70,
+        "nb_subjects": 14,
         "raw": "https://github.com/OpenNeuroDatasets/ds001923",
         "fmriprep": null,
         "freesurfer": null,
@@ -1568,7 +1568,7 @@
     "ds003763": {
         "name": "ds003763",
         "has_participant_tsv": false,
-        "nb_subjects": 90,
+        "nb_subjects": 30,
         "raw": "https://github.com/OpenNeuroDatasets/ds003763",
         "fmriprep": null,
         "freesurfer": null,
@@ -1577,7 +1577,7 @@
     "ds001946": {
         "name": "ds001946",
         "has_participant_tsv": false,
-        "nb_subjects": 312,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds001946",
         "fmriprep": null,
         "freesurfer": null,
@@ -1586,7 +1586,7 @@
     "ds003604": {
         "name": "ds003604",
         "has_participant_tsv": false,
-        "nb_subjects": 3826,
+        "nb_subjects": 268,
         "raw": "https://github.com/OpenNeuroDatasets/ds003604",
         "fmriprep": null,
         "freesurfer": null,
@@ -1595,7 +1595,7 @@
     "ds002675": {
         "name": "ds002675",
         "has_participant_tsv": false,
-        "nb_subjects": 120,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds002675",
         "fmriprep": null,
         "freesurfer": null,
@@ -1604,7 +1604,7 @@
     "ds001302": {
         "name": "ds001302",
         "has_participant_tsv": false,
-        "nb_subjects": 230,
+        "nb_subjects": 23,
         "raw": "https://github.com/OpenNeuroDatasets/ds001302",
         "fmriprep": null,
         "freesurfer": null,
@@ -1613,7 +1613,7 @@
     "ds002731": {
         "name": "ds002731",
         "has_participant_tsv": false,
-        "nb_subjects": 472,
+        "nb_subjects": 59,
         "raw": "https://github.com/OpenNeuroDatasets/ds002731",
         "fmriprep": null,
         "freesurfer": null,
@@ -1622,7 +1622,7 @@
     "ds002733": {
         "name": "ds002733",
         "has_participant_tsv": false,
-        "nb_subjects": 3,
+        "nb_subjects": 1,
         "raw": "https://github.com/OpenNeuroDatasets/ds002733",
         "fmriprep": null,
         "freesurfer": null,
@@ -1631,7 +1631,7 @@
     "ds003095": {
         "name": "ds003095",
         "has_participant_tsv": false,
-        "nb_subjects": 228,
+        "nb_subjects": 38,
         "raw": "https://github.com/OpenNeuroDatasets/ds003095",
         "fmriprep": null,
         "freesurfer": null,
@@ -1640,7 +1640,7 @@
     "ds001775": {
         "name": "ds001775",
         "has_participant_tsv": false,
-        "nb_subjects": 192,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds001775",
         "fmriprep": null,
         "freesurfer": null,
@@ -1649,7 +1649,7 @@
     "ds002843": {
         "name": "ds002843",
         "has_participant_tsv": false,
-        "nb_subjects": 3357,
+        "nb_subjects": 165,
         "raw": "https://github.com/OpenNeuroDatasets/ds002843",
         "fmriprep": null,
         "freesurfer": null,
@@ -1658,7 +1658,7 @@
     "ds003470": {
         "name": "ds003470",
         "has_participant_tsv": false,
-        "nb_subjects": 160,
+        "nb_subjects": 20,
         "raw": "https://github.com/OpenNeuroDatasets/ds003470",
         "fmriprep": null,
         "freesurfer": null,
@@ -1667,7 +1667,7 @@
     "ds004007": {
         "name": "ds004007",
         "has_participant_tsv": false,
-        "nb_subjects": 100,
+        "nb_subjects": 25,
         "raw": "https://github.com/OpenNeuroDatasets/ds004007",
         "fmriprep": null,
         "freesurfer": null,
@@ -1676,7 +1676,7 @@
     "ds002033": {
         "name": "ds002033",
         "has_participant_tsv": false,
-        "nb_subjects": 258,
+        "nb_subjects": 43,
         "raw": "https://github.com/OpenNeuroDatasets/ds002033",
         "fmriprep": null,
         "freesurfer": null,
@@ -1685,7 +1685,7 @@
     "ds002155": {
         "name": "ds002155",
         "has_participant_tsv": false,
-        "nb_subjects": 200,
+        "nb_subjects": 20,
         "raw": "https://github.com/OpenNeuroDatasets/ds002155",
         "fmriprep": null,
         "freesurfer": null,
@@ -1694,7 +1694,7 @@
     "ds002813": {
         "name": "ds002813",
         "has_participant_tsv": false,
-        "nb_subjects": 721,
+        "nb_subjects": 38,
         "raw": "https://github.com/OpenNeuroDatasets/ds002813",
         "fmriprep": null,
         "freesurfer": null,
@@ -1703,7 +1703,7 @@
     "ds001232": {
         "name": "ds001232",
         "has_participant_tsv": false,
-        "nb_subjects": 252,
+        "nb_subjects": 21,
         "raw": "https://github.com/OpenNeuroDatasets/ds001232",
         "fmriprep": null,
         "freesurfer": null,
@@ -1712,7 +1712,7 @@
     "ds000258": {
         "name": "ds000258",
         "has_participant_tsv": false,
-        "nb_subjects": 528,
+        "nb_subjects": 88,
         "raw": "https://github.com/OpenNeuroDatasets/ds000258",
         "fmriprep": null,
         "freesurfer": null,
@@ -1721,7 +1721,7 @@
     "ds003831": {
         "name": "ds003831",
         "has_participant_tsv": false,
-        "nb_subjects": 507,
+        "nb_subjects": 73,
         "raw": "https://github.com/OpenNeuroDatasets/ds003831",
         "fmriprep": null,
         "freesurfer": null,
@@ -1730,7 +1730,7 @@
     "ds003711": {
         "name": "ds003711",
         "has_participant_tsv": false,
-        "nb_subjects": 280,
+        "nb_subjects": 35,
         "raw": "https://github.com/OpenNeuroDatasets/ds003711",
         "fmriprep": null,
         "freesurfer": null,
@@ -1739,7 +1739,7 @@
     "ds003768": {
         "name": "ds003768",
         "has_participant_tsv": false,
-        "nb_subjects": 321,
+        "nb_subjects": 33,
         "raw": "https://github.com/OpenNeuroDatasets/ds003768",
         "fmriprep": null,
         "freesurfer": null,
@@ -1748,7 +1748,7 @@
     "ds002799": {
         "name": "ds002799",
         "has_participant_tsv": false,
-        "nb_subjects": 347,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds002799",
         "fmriprep": null,
         "freesurfer": null,
@@ -1757,7 +1757,7 @@
     "ds000119": {
         "name": "ds000119",
         "has_participant_tsv": true,
-        "nb_subjects": 425,
+        "nb_subjects": 73,
         "raw": "https://github.com/OpenNeuroDatasets/ds000119",
         "fmriprep": null,
         "freesurfer": null,
@@ -1766,7 +1766,7 @@
     "ds001762": {
         "name": "ds001762",
         "has_participant_tsv": false,
-        "nb_subjects": 155,
+        "nb_subjects": 31,
         "raw": "https://github.com/OpenNeuroDatasets/ds001762",
         "fmriprep": null,
         "freesurfer": null,
@@ -1775,7 +1775,7 @@
     "ds003089": {
         "name": "ds003089",
         "has_participant_tsv": false,
-        "nb_subjects": 80,
+        "nb_subjects": 20,
         "raw": "https://github.com/OpenNeuroDatasets/ds003089",
         "fmriprep": null,
         "freesurfer": null,
@@ -1784,7 +1784,7 @@
     "ds001357": {
         "name": "ds001357",
         "has_participant_tsv": false,
-        "nb_subjects": 108,
+        "nb_subjects": 18,
         "raw": "https://github.com/OpenNeuroDatasets/ds001357",
         "fmriprep": null,
         "freesurfer": null,
@@ -1793,7 +1793,7 @@
     "ds003076": {
         "name": "ds003076",
         "has_participant_tsv": false,
-        "nb_subjects": 101,
+        "nb_subjects": 17,
         "raw": "https://github.com/OpenNeuroDatasets/ds003076",
         "fmriprep": null,
         "freesurfer": null,
@@ -1802,7 +1802,7 @@
     "ds002149": {
         "name": "ds002149",
         "has_participant_tsv": false,
-        "nb_subjects": 160,
+        "nb_subjects": 20,
         "raw": "https://github.com/OpenNeuroDatasets/ds002149",
         "fmriprep": null,
         "freesurfer": null,
@@ -1811,7 +1811,7 @@
     "ds001894": {
         "name": "ds001894",
         "has_participant_tsv": false,
-        "nb_subjects": 2316,
+        "nb_subjects": 188,
         "raw": "https://github.com/OpenNeuroDatasets/ds001894",
         "fmriprep": null,
         "freesurfer": null,
@@ -1820,7 +1820,7 @@
     "ds001814": {
         "name": "ds001814",
         "has_participant_tsv": false,
-        "nb_subjects": 105,
+        "nb_subjects": 35,
         "raw": "https://github.com/OpenNeuroDatasets/ds001814",
         "fmriprep": null,
         "freesurfer": null,
@@ -1829,7 +1829,7 @@
     "ds002750": {
         "name": "ds002750",
         "has_participant_tsv": false,
-        "nb_subjects": 9,
+        "nb_subjects": 3,
         "raw": "https://github.com/OpenNeuroDatasets/ds002750",
         "fmriprep": null,
         "freesurfer": null,
@@ -1838,7 +1838,7 @@
     "ds003709": {
         "name": "ds003709",
         "has_participant_tsv": false,
-        "nb_subjects": 255,
+        "nb_subjects": 51,
         "raw": "https://github.com/OpenNeuroDatasets/ds003709",
         "fmriprep": null,
         "freesurfer": null,
@@ -1847,7 +1847,7 @@
     "ds002879": {
         "name": "ds002879",
         "has_participant_tsv": false,
-        "nb_subjects": 272,
+        "nb_subjects": 32,
         "raw": "https://github.com/OpenNeuroDatasets/ds002879",
         "fmriprep": null,
         "freesurfer": null,
@@ -1856,7 +1856,7 @@
     "ds001912": {
         "name": "ds001912",
         "has_participant_tsv": false,
-        "nb_subjects": 186,
+        "nb_subjects": 17,
         "raw": "https://github.com/OpenNeuroDatasets/ds001912",
         "fmriprep": null,
         "freesurfer": null,
@@ -1865,7 +1865,7 @@
     "ds002547": {
         "name": "ds002547",
         "has_participant_tsv": false,
-        "nb_subjects": 170,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds002547",
         "fmriprep": null,
         "freesurfer": null,
@@ -1874,7 +1874,7 @@
     "ds003345": {
         "name": "ds003345",
         "has_participant_tsv": false,
-        "nb_subjects": 373,
+        "nb_subjects": 75,
         "raw": "https://github.com/OpenNeuroDatasets/ds003345",
         "fmriprep": null,
         "freesurfer": null,
@@ -1883,7 +1883,7 @@
     "ds003357": {
         "name": "ds003357",
         "has_participant_tsv": false,
-        "nb_subjects": 160,
+        "nb_subjects": 32,
         "raw": "https://github.com/OpenNeuroDatasets/ds003357",
         "fmriprep": null,
         "freesurfer": null,
@@ -1892,7 +1892,7 @@
     "ds003569": {
         "name": "ds003569",
         "has_participant_tsv": false,
-        "nb_subjects": 75,
+        "nb_subjects": 25,
         "raw": "https://github.com/OpenNeuroDatasets/ds003569",
         "fmriprep": null,
         "freesurfer": null,
@@ -1901,7 +1901,7 @@
     "ds003550": {
         "name": "ds003550",
         "has_participant_tsv": false,
-        "nb_subjects": 152,
+        "nb_subjects": 38,
         "raw": "https://github.com/OpenNeuroDatasets/ds003550",
         "fmriprep": null,
         "freesurfer": null,
@@ -1910,7 +1910,7 @@
     "ds001228": {
         "name": "ds001228",
         "has_participant_tsv": false,
-        "nb_subjects": 191,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds001228",
         "fmriprep": null,
         "freesurfer": null,
@@ -1919,7 +1919,7 @@
     "ds003381": {
         "name": "ds003381",
         "has_participant_tsv": false,
-        "nb_subjects": 123,
+        "nb_subjects": 21,
         "raw": "https://github.com/OpenNeuroDatasets/ds003381",
         "fmriprep": null,
         "freesurfer": null,
@@ -1928,7 +1928,7 @@
     "ds000241": {
         "name": "ds000241",
         "has_participant_tsv": false,
-        "nb_subjects": 144,
+        "nb_subjects": 12,
         "raw": "https://github.com/OpenNeuroDatasets/ds000241",
         "fmriprep": null,
         "freesurfer": null,
@@ -1937,7 +1937,7 @@
     "ds001132": {
         "name": "ds001132",
         "has_participant_tsv": false,
-        "nb_subjects": 80,
+        "nb_subjects": 16,
         "raw": "https://github.com/OpenNeuroDatasets/ds001132",
         "fmriprep": null,
         "freesurfer": null,
@@ -1946,7 +1946,7 @@
     "ds000224": {
         "name": "ds000224",
         "has_participant_tsv": false,
-        "nb_subjects": 894,
+        "nb_subjects": 10,
         "raw": "https://github.com/OpenNeuroDatasets/ds000224",
         "fmriprep": null,
         "freesurfer": null,
@@ -1955,7 +1955,7 @@
     "ds004094": {
         "name": "ds004094",
         "has_participant_tsv": false,
-        "nb_subjects": 370,
+        "nb_subjects": 37,
         "raw": "https://github.com/OpenNeuroDatasets/ds004094",
         "fmriprep": null,
         "freesurfer": null,
@@ -1964,7 +1964,7 @@
     "ds003436": {
         "name": "ds003436",
         "has_participant_tsv": false,
-        "nb_subjects": 330,
+        "nb_subjects": 55,
         "raw": "https://github.com/OpenNeuroDatasets/ds003436",
         "fmriprep": null,
         "freesurfer": null,
@@ -1973,7 +1973,7 @@
     "ds001521": {
         "name": "ds001521",
         "has_participant_tsv": false,
-        "nb_subjects": 328,
+        "nb_subjects": 41,
         "raw": "https://github.com/OpenNeuroDatasets/ds001521",
         "fmriprep": null,
         "freesurfer": null,
@@ -1982,7 +1982,7 @@
     "ds003083": {
         "name": "ds003083",
         "has_participant_tsv": false,
-        "nb_subjects": 234,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds003083",
         "fmriprep": null,
         "freesurfer": null,
@@ -1991,7 +1991,7 @@
     "ds003669": {
         "name": "ds003669",
         "has_participant_tsv": false,
-        "nb_subjects": 322,
+        "nb_subjects": 46,
         "raw": "https://github.com/OpenNeuroDatasets/ds003669",
         "fmriprep": null,
         "freesurfer": null,
@@ -2000,7 +2000,7 @@
     "ds002250": {
         "name": "ds002250",
         "has_participant_tsv": false,
-        "nb_subjects": 263,
+        "nb_subjects": 20,
         "raw": "https://github.com/OpenNeuroDatasets/ds002250",
         "fmriprep": null,
         "freesurfer": null,
@@ -2009,7 +2009,7 @@
     "ds001241": {
         "name": "ds001241",
         "has_participant_tsv": false,
-        "nb_subjects": 282,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds001241",
         "fmriprep": null,
         "freesurfer": null,
@@ -2018,7 +2018,7 @@
     "ds004215": {
         "name": "ds004215",
         "has_participant_tsv": false,
-        "nb_subjects": 905,
+        "nb_subjects": 155,
         "raw": "https://github.com/OpenNeuroDatasets/ds004215",
         "fmriprep": null,
         "freesurfer": null,
@@ -2027,7 +2027,7 @@
     "ds004144": {
         "name": "ds004144",
         "has_participant_tsv": false,
-        "nb_subjects": 329,
+        "nb_subjects": 66,
         "raw": "https://github.com/OpenNeuroDatasets/ds004144",
         "fmriprep": null,
         "freesurfer": null,
@@ -2036,7 +2036,7 @@
     "ds001417": {
         "name": "ds001417",
         "has_participant_tsv": false,
-        "nb_subjects": 585,
+        "nb_subjects": 36,
         "raw": "https://github.com/OpenNeuroDatasets/ds001417",
         "fmriprep": null,
         "freesurfer": null,
@@ -2045,7 +2045,7 @@
     "ds001607": {
         "name": "ds001607",
         "has_participant_tsv": false,
-        "nb_subjects": 160,
+        "nb_subjects": 32,
         "raw": "https://github.com/OpenNeuroDatasets/ds001607",
         "fmriprep": null,
         "freesurfer": null,
@@ -2054,7 +2054,7 @@
     "ds001229": {
         "name": "ds001229",
         "has_participant_tsv": false,
-        "nb_subjects": 214,
+        "nb_subjects": 27,
         "raw": "https://github.com/OpenNeuroDatasets/ds001229",
         "fmriprep": null,
         "freesurfer": null,
@@ -2063,7 +2063,7 @@
     "ds001590": {
         "name": "ds001590",
         "has_participant_tsv": false,
-        "nb_subjects": 317,
+        "nb_subjects": 32,
         "raw": "https://github.com/OpenNeuroDatasets/ds001590",
         "fmriprep": null,
         "freesurfer": null,
@@ -2072,7 +2072,7 @@
     "ds002543": {
         "name": "ds002543",
         "has_participant_tsv": false,
-        "nb_subjects": 429,
+        "nb_subjects": 49,
         "raw": "https://github.com/OpenNeuroDatasets/ds002543",
         "fmriprep": null,
         "freesurfer": null,
@@ -2081,7 +2081,7 @@
     "ds002837": {
         "name": "ds002837",
         "has_participant_tsv": false,
-        "nb_subjects": 436,
+        "nb_subjects": 86,
         "raw": "https://github.com/OpenNeuroDatasets/ds002837",
         "fmriprep": null,
         "freesurfer": null,
@@ -2090,7 +2090,7 @@
     "ds003661": {
         "name": "ds003661",
         "has_participant_tsv": false,
-        "nb_subjects": 130,
+        "nb_subjects": 5,
         "raw": "https://github.com/OpenNeuroDatasets/ds003661",
         "fmriprep": null,
         "freesurfer": null,
@@ -2099,7 +2099,7 @@
     "ds000217": {
         "name": "ds000217",
         "has_participant_tsv": false,
-        "nb_subjects": 697,
+        "nb_subjects": 41,
         "raw": "https://github.com/OpenNeuroDatasets/ds000217",
         "fmriprep": null,
         "freesurfer": null,
@@ -2108,7 +2108,7 @@
     "ds001299": {
         "name": "ds001299",
         "has_participant_tsv": false,
-        "nb_subjects": 114,
+        "nb_subjects": 19,
         "raw": "https://github.com/OpenNeuroDatasets/ds001299",
         "fmriprep": null,
         "freesurfer": null,
@@ -2117,7 +2117,7 @@
     "ds001635": {
         "name": "ds001635",
         "has_participant_tsv": false,
-        "nb_subjects": 80,
+        "nb_subjects": 16,
         "raw": "https://github.com/OpenNeuroDatasets/ds001635",
         "fmriprep": null,
         "freesurfer": null,
@@ -2126,7 +2126,7 @@
     "ds003772": {
         "name": "ds003772",
         "has_participant_tsv": false,
-        "nb_subjects": 192,
+        "nb_subjects": 32,
         "raw": "https://github.com/OpenNeuroDatasets/ds003772",
         "fmriprep": null,
         "freesurfer": null,
@@ -2135,7 +2135,7 @@
     "ds001235": {
         "name": "ds001235",
         "has_participant_tsv": false,
-        "nb_subjects": 192,
+        "nb_subjects": 12,
         "raw": "https://github.com/OpenNeuroDatasets/ds001235",
         "fmriprep": null,
         "freesurfer": null,
@@ -2144,7 +2144,7 @@
     "ds002878": {
         "name": "ds002878",
         "has_participant_tsv": false,
-        "nb_subjects": 105,
+        "nb_subjects": 35,
         "raw": "https://github.com/OpenNeuroDatasets/ds002878",
         "fmriprep": null,
         "freesurfer": null,
@@ -2153,7 +2153,7 @@
     "ds001928": {
         "name": "ds001928",
         "has_participant_tsv": false,
-        "nb_subjects": 240,
+        "nb_subjects": 40,
         "raw": "https://github.com/OpenNeuroDatasets/ds001928",
         "fmriprep": null,
         "freesurfer": null,
@@ -2162,7 +2162,7 @@
     "ds003507": {
         "name": "ds003507",
         "has_participant_tsv": false,
-        "nb_subjects": 105,
+        "nb_subjects": 21,
         "raw": "https://github.com/OpenNeuroDatasets/ds003507",
         "fmriprep": null,
         "freesurfer": null,
@@ -2171,7 +2171,7 @@
     "ds001747": {
         "name": "ds001747",
         "has_participant_tsv": false,
-        "nb_subjects": 276,
+        "nb_subjects": 92,
         "raw": "https://github.com/OpenNeuroDatasets/ds001747",
         "fmriprep": null,
         "freesurfer": null,
@@ -2180,7 +2180,7 @@
     "ds004044": {
         "name": "ds004044",
         "has_participant_tsv": false,
-        "nb_subjects": 497,
+        "nb_subjects": 62,
         "raw": "https://github.com/OpenNeuroDatasets/ds004044",
         "fmriprep": null,
         "freesurfer": null,
@@ -2189,7 +2189,7 @@
     "ds001110": {
         "name": "ds001110",
         "has_participant_tsv": false,
-        "nb_subjects": 151,
+        "nb_subjects": 37,
         "raw": "https://github.com/OpenNeuroDatasets/ds001110",
         "fmriprep": null,
         "freesurfer": null,
@@ -2198,7 +2198,7 @@
     "ds003745": {
         "name": "ds003745",
         "has_participant_tsv": false,
-        "nb_subjects": 370,
+        "nb_subjects": 50,
         "raw": "https://github.com/OpenNeuroDatasets/ds003745",
         "fmriprep": null,
         "freesurfer": null,
@@ -2207,7 +2207,7 @@
     "ds002116": {
         "name": "ds002116",
         "has_participant_tsv": false,
-        "nb_subjects": 341,
+        "nb_subjects": 57,
         "raw": "https://github.com/OpenNeuroDatasets/ds002116",
         "fmriprep": null,
         "freesurfer": null,
@@ -2216,7 +2216,7 @@
     "ds002732": {
         "name": "ds002732",
         "has_participant_tsv": false,
-        "nb_subjects": 150,
+        "nb_subjects": 30,
         "raw": "https://github.com/OpenNeuroDatasets/ds002732",
         "fmriprep": null,
         "freesurfer": null,
@@ -2225,7 +2225,7 @@
     "ds003988": {
         "name": "ds003988",
         "has_participant_tsv": false,
-        "nb_subjects": 448,
+        "nb_subjects": 56,
         "raw": "https://github.com/OpenNeuroDatasets/ds003988",
         "fmriprep": null,
         "freesurfer": null,
@@ -2234,7 +2234,7 @@
     "ds001386": {
         "name": "ds001386",
         "has_participant_tsv": false,
-        "nb_subjects": 168,
+        "nb_subjects": 42,
         "raw": "https://github.com/OpenNeuroDatasets/ds001386",
         "fmriprep": null,
         "freesurfer": null,
@@ -2243,7 +2243,7 @@
     "ds004226": {
         "name": "ds004226",
         "has_participant_tsv": false,
-        "nb_subjects": 336,
+        "nb_subjects": 28,
         "raw": "https://github.com/OpenNeuroDatasets/ds004226",
         "fmriprep": null,
         "freesurfer": null,
@@ -2252,7 +2252,7 @@
     "ds003126": {
         "name": "ds003126",
         "has_participant_tsv": false,
-        "nb_subjects": 290,
+        "nb_subjects": 58,
         "raw": "https://github.com/OpenNeuroDatasets/ds003126",
         "fmriprep": null,
         "freesurfer": null,
@@ -2261,7 +2261,7 @@
     "ds000133": {
         "name": "ds000133",
         "has_participant_tsv": true,
-        "nb_subjects": 233,
+        "nb_subjects": 26,
         "raw": "https://github.com/OpenNeuroDatasets/ds000133",
         "fmriprep": null,
         "freesurfer": null,
@@ -2270,7 +2270,7 @@
     "ds003342": {
         "name": "ds003342",
         "has_participant_tsv": false,
-        "nb_subjects": 255,
+        "nb_subjects": 19,
         "raw": "https://github.com/OpenNeuroDatasets/ds003342",
         "fmriprep": null,
         "freesurfer": null,
@@ -2279,7 +2279,7 @@
     "ds000168": {
         "name": "ds000168",
         "has_participant_tsv": true,
-        "nb_subjects": 105,
+        "nb_subjects": 35,
         "raw": "https://github.com/OpenNeuroDatasets/ds000168",
         "fmriprep": null,
         "freesurfer": null,
@@ -2288,7 +2288,7 @@
     "ds003606": {
         "name": "ds003606",
         "has_participant_tsv": false,
-        "nb_subjects": 145,
+        "nb_subjects": 29,
         "raw": "https://github.com/OpenNeuroDatasets/ds003606",
         "fmriprep": null,
         "freesurfer": null,
@@ -2297,7 +2297,7 @@
     "ds001554": {
         "name": "ds001554",
         "has_participant_tsv": false,
-        "nb_subjects": 69,
+        "nb_subjects": 23,
         "raw": "https://github.com/OpenNeuroDatasets/ds001554",
         "fmriprep": null,
         "freesurfer": null,
@@ -2306,7 +2306,7 @@
     "ds002105": {
         "name": "ds002105",
         "has_participant_tsv": false,
-        "nb_subjects": 1003,
+        "nb_subjects": 24,
         "raw": "https://github.com/OpenNeuroDatasets/ds002105",
         "fmriprep": null,
         "freesurfer": null,
@@ -2315,7 +2315,7 @@
     "ds000210": {
         "name": "ds000210",
         "has_participant_tsv": false,
-        "nb_subjects": 527,
+        "nb_subjects": 31,
         "raw": "https://github.com/OpenNeuroDatasets/ds000210",
         "fmriprep": null,
         "freesurfer": null,
@@ -2324,7 +2324,7 @@
     "ds000140": {
         "name": "ds000140",
         "has_participant_tsv": true,
-        "nb_subjects": 363,
+        "nb_subjects": 33,
         "raw": "https://github.com/OpenNeuroDatasets/ds000140",
         "fmriprep": null,
         "freesurfer": null,
@@ -2333,7 +2333,7 @@
     "ds002793": {
         "name": "ds002793",
         "has_participant_tsv": false,
-        "nb_subjects": 387,
+        "nb_subjects": 28,
         "raw": "https://github.com/OpenNeuroDatasets/ds002793",
         "fmriprep": null,
         "freesurfer": null,
@@ -2342,7 +2342,7 @@
     "ds001608": {
         "name": "ds001608",
         "has_participant_tsv": false,
-        "nb_subjects": 85,
+        "nb_subjects": 21,
         "raw": "https://github.com/OpenNeuroDatasets/ds001608",
         "fmriprep": null,
         "freesurfer": null,

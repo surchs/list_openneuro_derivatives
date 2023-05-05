@@ -2,16 +2,6 @@
 # in openneuro derivatives (fmriprep, mriqc, freesurfer)
 # either on openneuro proper or in openneuro-derivatives
 
-# TODO:
-# - improving checking status of participants.tsv
-# - make it able to install datasets or subdatasets
-#   (especially sourcedata/raw) on the fly
-
-# requires datalad and rich
-
-# datalad superdataset must be installed via
-#
-#  datalad install ///
 
 import json
 from pathlib import Path
@@ -47,9 +37,13 @@ def main():
         json.dump(datasets, f, indent=4)
 
     print(f"Number of datasets: {len(datasets)}")
-    print(f"Number of subjects: {nb_datasets_with(datasets, 'nb_subjects')}")
+    print(f"Number of subjects: {sum(v['nb_subjects'] for v in datasets.values())}")
     for der in ["fmriprep", "mriqc", "freesurfer"]:
         print(f"Number of dataset with {der}: {nb_datasets_with(datasets, der)}")
+        nb_subjects_for_der = sum(
+            v["nb_subjects"] for v in datasets.values() if v[der] is not None
+        )
+        print(f"  Corresponding to {nb_subjects_for_der} subjects")
     print(
         "Number of datasets with participants.tsv: "
         f"{nb_datasets_with(datasets, 'has_participant_tsv')}"
@@ -57,7 +51,7 @@ def main():
 
 
 def nb_datasets_with(datasets, key):
-    return sum(v[key] is not None for v in datasets.values())
+    return sum(v[key] not in [None, False] for v in datasets.values())
 
 
 def update_from_fmriprep_datasets(fmriprep_datasets, datasets):
@@ -132,7 +126,8 @@ def new_datatset(name):
 
 
 def get_nb_subjects(pth):
-    return len(list(pth.glob("sub-*")))
+    tmp = [v for v in pth.glob("sub-*") if v.is_dir()]
+    return len(tmp)
 
 
 def check_participants_tsv(datasets, dataset_, dataset_name):
