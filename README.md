@@ -12,14 +12,14 @@ openneuro derivatives can be installed via (this will take a while):
 
 ```bash
 cd datasets.datalad.org
-datalad install openneuro-derivatives --recursive
+datalad install openneuro-derivatives --recursive -J 12
 ```
 
 openneuro can be installed via (this will take a while):
 
 ```bash
 cd datasets.datalad.org
-datalad install openneuro --recursive
+datalad install openneuro --recursive -J 12
 ```
 
 ## listing
