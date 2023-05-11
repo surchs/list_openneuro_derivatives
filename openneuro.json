@@ -1,0 +1,5872 @@
+{
+    "ds002743": {
+        "name": "ds002743",
+        "has_participant_tsv": true,
+        "nb_subjects": 3,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002743",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003812": {
+        "name": "ds003812",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003812",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001379": {
+        "name": "ds001379",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001379",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004283": {
+        "name": "ds004283",
+        "has_participant_tsv": true,
+        "nb_subjects": 4,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004283",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003233": {
+        "name": "ds003233",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003233",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003929": {
+        "name": "ds003929",
+        "has_participant_tsv": true,
+        "nb_subjects": 9,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003929",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002941": {
+        "name": "ds002941",
+        "has_participant_tsv": true,
+        "nb_subjects": 26,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002941",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004192": {
+        "name": "ds004192",
+        "has_participant_tsv": true,
+        "nb_subjects": 3,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004192",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002896": {
+        "name": "ds002896",
+        "has_participant_tsv": true,
+        "nb_subjects": 38,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002896",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000228": {
+        "name": "ds000228",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000228",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003343": {
+        "name": "ds003343",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003343",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001566": {
+        "name": "ds001566",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001566",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004068": {
+        "name": "ds004068",
+        "has_participant_tsv": true,
+        "nb_subjects": 48,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004068",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003987": {
+        "name": "ds003987",
+        "has_participant_tsv": true,
+        "nb_subjects": 23,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003987",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001178": {
+        "name": "ds001178",
+        "has_participant_tsv": true,
+        "nb_subjects": 23,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001178",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000202": {
+        "name": "ds000202",
+        "has_participant_tsv": true,
+        "nb_subjects": 95,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000202",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001482": {
+        "name": "ds001482",
+        "has_participant_tsv": true,
+        "nb_subjects": 33,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001482",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000249": {
+        "name": "ds000249",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000249",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds000214": {
+        "name": "ds000214",
+        "has_participant_tsv": true,
+        "nb_subjects": 36,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000214",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003701": {
+        "name": "ds003701",
+        "has_participant_tsv": true,
+        "nb_subjects": 96,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003701",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001597": {
+        "name": "ds001597",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001597",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003990": {
+        "name": "ds003990",
+        "has_participant_tsv": true,
+        "nb_subjects": 6,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003990",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002842": {
+        "name": "ds002842",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002842",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds004348": {
+        "name": "ds004348",
+        "has_participant_tsv": true,
+        "nb_subjects": 9,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004348",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002345": {
+        "name": "ds002345",
+        "has_participant_tsv": true,
+        "nb_subjects": 315,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002345",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004256": {
+        "name": "ds004256",
+        "has_participant_tsv": true,
+        "nb_subjects": 53,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004256",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004101": {
+        "name": "ds004101",
+        "has_participant_tsv": true,
+        "nb_subjects": 9,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004101",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000003": {
+        "name": "ds000003",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000003",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003633": {
+        "name": "ds003633",
+        "has_participant_tsv": true,
+        "nb_subjects": 11,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003633",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/preproc_meg-mne_mri-fmriprep",
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004148": {
+        "name": "ds004148",
+        "has_participant_tsv": true,
+        "nb_subjects": 60,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004148",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003569": {
+        "name": "ds003569",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003569",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002717": {
+        "name": "ds002717",
+        "has_participant_tsv": true,
+        "nb_subjects": 59,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002717",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002741": {
+        "name": "ds002741",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002741",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003606": {
+        "name": "ds003606",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003606",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001722": {
+        "name": "ds001722",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001722",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003469": {
+        "name": "ds003469",
+        "has_participant_tsv": true,
+        "nb_subjects": 81,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003469",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000102": {
+        "name": "ds000102",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000102",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds000218": {
+        "name": "ds000218",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000218",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004019": {
+        "name": "ds004019",
+        "has_participant_tsv": true,
+        "nb_subjects": 62,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004019",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000240": {
+        "name": "ds000240",
+        "has_participant_tsv": true,
+        "nb_subjects": 63,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000240",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004114": {
+        "name": "ds004114",
+        "has_participant_tsv": true,
+        "nb_subjects": 646,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004114",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000248": {
+        "name": "ds000248",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000248",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003352": {
+        "name": "ds003352",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003352",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003499": {
+        "name": "ds003499",
+        "has_participant_tsv": true,
+        "nb_subjects": 90,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003499",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004350": {
+        "name": "ds004350",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004350",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003602": {
+        "name": "ds003602",
+        "has_participant_tsv": true,
+        "nb_subjects": 118,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003602",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003454": {
+        "name": "ds003454",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003454",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002737": {
+        "name": "ds002737",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002737",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003509": {
+        "name": "ds003509",
+        "has_participant_tsv": true,
+        "nb_subjects": 56,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003509",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003458": {
+        "name": "ds003458",
+        "has_participant_tsv": true,
+        "nb_subjects": 23,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003458",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004146": {
+        "name": "ds004146",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004146",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003483": {
+        "name": "ds003483",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003483",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004022": {
+        "name": "ds004022",
+        "has_participant_tsv": true,
+        "nb_subjects": 7,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004022",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004134": {
+        "name": "ds004134",
+        "has_participant_tsv": true,
+        "nb_subjects": 36,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004134",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001486": {
+        "name": "ds001486",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001486",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": true
+    },
+    "ds002912": {
+        "name": "ds002912",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002912",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001232": {
+        "name": "ds001232",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001232",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003823": {
+        "name": "ds003823",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003823",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": true
+    },
+    "ds003810": {
+        "name": "ds003810",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003810",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002014": {
+        "name": "ds002014",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002014",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002720": {
+        "name": "ds002720",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002720",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000222": {
+        "name": "ds000222",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000222",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds004024": {
+        "name": "ds004024",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004024",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004230": {
+        "name": "ds004230",
+        "has_participant_tsv": true,
+        "nb_subjects": 9,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004230",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002718": {
+        "name": "ds002718",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002718",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003645": {
+        "name": "ds003645",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003645",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003005": {
+        "name": "ds003005",
+        "has_participant_tsv": true,
+        "nb_subjects": 49,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003005",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004145": {
+        "name": "ds004145",
+        "has_participant_tsv": true,
+        "nb_subjects": 49,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004145",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000031": {
+        "name": "ds000031",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000031",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003789": {
+        "name": "ds003789",
+        "has_participant_tsv": true,
+        "nb_subjects": 32,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003789",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002893": {
+        "name": "ds002893",
+        "has_participant_tsv": true,
+        "nb_subjects": 49,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002893",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003342": {
+        "name": "ds003342",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003342",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000243": {
+        "name": "ds000243",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000243",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds001553": {
+        "name": "ds001553",
+        "has_participant_tsv": true,
+        "nb_subjects": 3,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001553",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003758": {
+        "name": "ds003758",
+        "has_participant_tsv": true,
+        "nb_subjects": 15,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003758",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003770": {
+        "name": "ds003770",
+        "has_participant_tsv": true,
+        "nb_subjects": 6,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003770",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003717": {
+        "name": "ds003717",
+        "has_participant_tsv": true,
+        "nb_subjects": 60,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003717",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002011": {
+        "name": "ds002011",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002011",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001378": {
+        "name": "ds001378",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001378",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004161": {
+        "name": "ds004161",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004161",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002680": {
+        "name": "ds002680",
+        "has_participant_tsv": true,
+        "nb_subjects": 14,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002680",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004042": {
+        "name": "ds004042",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004042",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000007": {
+        "name": "ds000007",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000007",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds001814": {
+        "name": "ds001814",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001814",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003838": {
+        "name": "ds003838",
+        "has_participant_tsv": true,
+        "nb_subjects": 86,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003838",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002351": {
+        "name": "ds002351",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002351",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002034": {
+        "name": "ds002034",
+        "has_participant_tsv": true,
+        "nb_subjects": 14,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002034",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001371": {
+        "name": "ds001371",
+        "has_participant_tsv": true,
+        "nb_subjects": 47,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001371",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003570": {
+        "name": "ds003570",
+        "has_participant_tsv": true,
+        "nb_subjects": 40,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003570",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001306": {
+        "name": "ds001306",
+        "has_participant_tsv": true,
+        "nb_subjects": 17,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001306",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003754": {
+        "name": "ds003754",
+        "has_participant_tsv": true,
+        "nb_subjects": 44,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003754",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004368": {
+        "name": "ds004368",
+        "has_participant_tsv": true,
+        "nb_subjects": 39,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004368",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001430": {
+        "name": "ds001430",
+        "has_participant_tsv": true,
+        "nb_subjects": 31,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001430",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002411": {
+        "name": "ds002411",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002411",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003655": {
+        "name": "ds003655",
+        "has_participant_tsv": true,
+        "nb_subjects": 156,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003655",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002422": {
+        "name": "ds002422",
+        "has_participant_tsv": true,
+        "nb_subjects": 46,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002422",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000212": {
+        "name": "ds000212",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000212",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds001618": {
+        "name": "ds001618",
+        "has_participant_tsv": true,
+        "nb_subjects": 36,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001618",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004217": {
+        "name": "ds004217",
+        "has_participant_tsv": true,
+        "nb_subjects": 67,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004217",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002982": {
+        "name": "ds002982",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002982",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001894": {
+        "name": "ds001894",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001894",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": true
+    },
+    "ds003710": {
+        "name": "ds003710",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003710",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003381": {
+        "name": "ds003381",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003381",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001386": {
+        "name": "ds001386",
+        "has_participant_tsv": true,
+        "nb_subjects": 42,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001386",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001554": {
+        "name": "ds001554",
+        "has_participant_tsv": true,
+        "nb_subjects": 23,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001554",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002878": {
+        "name": "ds002878",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002878",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000245": {
+        "name": "ds000245",
+        "has_participant_tsv": true,
+        "nb_subjects": 45,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000245",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002643": {
+        "name": "ds002643",
+        "has_participant_tsv": true,
+        "nb_subjects": 80,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002643",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004226": {
+        "name": "ds004226",
+        "has_participant_tsv": true,
+        "nb_subjects": 28,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004226",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002655": {
+        "name": "ds002655",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002655",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002330": {
+        "name": "ds002330",
+        "has_participant_tsv": true,
+        "nb_subjects": 66,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002330",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003775": {
+        "name": "ds003775",
+        "has_participant_tsv": true,
+        "nb_subjects": 111,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003775",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001720": {
+        "name": "ds001720",
+        "has_participant_tsv": true,
+        "nb_subjects": 255,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001720",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002936": {
+        "name": "ds002936",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002936",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003190": {
+        "name": "ds003190",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003190",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003436": {
+        "name": "ds003436",
+        "has_participant_tsv": true,
+        "nb_subjects": 55,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003436",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003826": {
+        "name": "ds003826",
+        "has_participant_tsv": true,
+        "nb_subjects": 113,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003826",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002236": {
+        "name": "ds002236",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002236",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": true
+    },
+    "ds003521": {
+        "name": "ds003521",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003521",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003949": {
+        "name": "ds003949",
+        "has_participant_tsv": true,
+        "nb_subjects": 284,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003949",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002898": {
+        "name": "ds002898",
+        "has_participant_tsv": true,
+        "nb_subjects": 27,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002898",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004119": {
+        "name": "ds004119",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004119",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001705": {
+        "name": "ds001705",
+        "has_participant_tsv": true,
+        "nb_subjects": 5,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001705",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003825": {
+        "name": "ds003825",
+        "has_participant_tsv": true,
+        "nb_subjects": 50,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003825",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001728": {
+        "name": "ds001728",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001728",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002721": {
+        "name": "ds002721",
+        "has_participant_tsv": true,
+        "nb_subjects": 31,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002721",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003419": {
+        "name": "ds003419",
+        "has_participant_tsv": true,
+        "nb_subjects": 58,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003419",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": true
+    },
+    "ds004241": {
+        "name": "ds004241",
+        "has_participant_tsv": true,
+        "nb_subjects": 32,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004241",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003171": {
+        "name": "ds003171",
+        "has_participant_tsv": true,
+        "nb_subjects": 17,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003171",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004169": {
+        "name": "ds004169",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004169",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds002749": {
+        "name": "ds002749",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002749",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003505": {
+        "name": "ds003505",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003505",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001652": {
+        "name": "ds001652",
+        "has_participant_tsv": true,
+        "nb_subjects": 8,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001652",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003647": {
+        "name": "ds003647",
+        "has_participant_tsv": true,
+        "nb_subjects": 34,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003647",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000174": {
+        "name": "ds000174",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000174",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003552": {
+        "name": "ds003552",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003552",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001743": {
+        "name": "ds001743",
+        "has_participant_tsv": true,
+        "nb_subjects": 12,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001743",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004085": {
+        "name": "ds004085",
+        "has_participant_tsv": true,
+        "nb_subjects": 8,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004085",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003831": {
+        "name": "ds003831",
+        "has_participant_tsv": true,
+        "nb_subjects": 74,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003831",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002712": {
+        "name": "ds002712",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002712",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003380": {
+        "name": "ds003380",
+        "has_participant_tsv": true,
+        "nb_subjects": 12,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003380",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004158": {
+        "name": "ds004158",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004158",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001734": {
+        "name": "ds001734",
+        "has_participant_tsv": true,
+        "nb_subjects": 119,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001734",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004152": {
+        "name": "ds004152",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004152",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004330": {
+        "name": "ds004330",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004330",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000030": {
+        "name": "ds000030",
+        "has_participant_tsv": true,
+        "nb_subjects": 272,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000030",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds002336": {
+        "name": "ds002336",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002336",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003011": {
+        "name": "ds003011",
+        "has_participant_tsv": true,
+        "nb_subjects": 4,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003011",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000149": {
+        "name": "ds000149",
+        "has_participant_tsv": true,
+        "nb_subjects": 15,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000149",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002750": {
+        "name": "ds002750",
+        "has_participant_tsv": true,
+        "nb_subjects": 3,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002750",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003382": {
+        "name": "ds003382",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003382",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004392": {
+        "name": "ds004392",
+        "has_participant_tsv": true,
+        "nb_subjects": 58,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004392",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds000219": {
+        "name": "ds000219",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000219",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003468": {
+        "name": "ds003468",
+        "has_participant_tsv": true,
+        "nb_subjects": 26,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003468",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000254": {
+        "name": "ds000254",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000254",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003061": {
+        "name": "ds003061",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003061",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003670": {
+        "name": "ds003670",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003670",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004130": {
+        "name": "ds004130",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004130",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds001555": {
+        "name": "ds001555",
+        "has_participant_tsv": true,
+        "nb_subjects": 3,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001555",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001840": {
+        "name": "ds001840",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001840",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003338": {
+        "name": "ds003338",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003338",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003037": {
+        "name": "ds003037",
+        "has_participant_tsv": true,
+        "nb_subjects": 53,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003037",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002154": {
+        "name": "ds002154",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002154",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001420": {
+        "name": "ds001420",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001420",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003751": {
+        "name": "ds003751",
+        "has_participant_tsv": true,
+        "nb_subjects": 40,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003751",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000120": {
+        "name": "ds000120",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000120",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003709": {
+        "name": "ds003709",
+        "has_participant_tsv": true,
+        "nb_subjects": 51,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003709",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000221": {
+        "name": "ds000221",
+        "has_participant_tsv": true,
+        "nb_subjects": 318,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000221",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003082": {
+        "name": "ds003082",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003082",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000122": {
+        "name": "ds000122",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000122",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds004197": {
+        "name": "ds004197",
+        "has_participant_tsv": true,
+        "nb_subjects": 4,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004197",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000101": {
+        "name": "ds000101",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000101",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003126": {
+        "name": "ds003126",
+        "has_participant_tsv": true,
+        "nb_subjects": 58,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003126",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000157": {
+        "name": "ds000157",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000157",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds000213": {
+        "name": "ds000213",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000213",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003114": {
+        "name": "ds003114",
+        "has_participant_tsv": true,
+        "nb_subjects": 49,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003114",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000006": {
+        "name": "ds000006",
+        "has_participant_tsv": true,
+        "nb_subjects": 14,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000006",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000203": {
+        "name": "ds000203",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000203",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds002419": {
+        "name": "ds002419",
+        "has_participant_tsv": true,
+        "nb_subjects": 48,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002419",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003816": {
+        "name": "ds003816",
+        "has_participant_tsv": true,
+        "nb_subjects": 36,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003816",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004073": {
+        "name": "ds004073",
+        "has_participant_tsv": true,
+        "nb_subjects": 50,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004073",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002684": {
+        "name": "ds002684",
+        "has_participant_tsv": true,
+        "nb_subjects": 4,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002684",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003176": {
+        "name": "ds003176",
+        "has_participant_tsv": true,
+        "nb_subjects": 34,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003176",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds004356": {
+        "name": "ds004356",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004356",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003555": {
+        "name": "ds003555",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003555",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000238": {
+        "name": "ds000238",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000238",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001365": {
+        "name": "ds001365",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001365",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000119": {
+        "name": "ds000119",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000119",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003104": {
+        "name": "ds003104",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003104",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001241": {
+        "name": "ds001241",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001241",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003844": {
+        "name": "ds003844",
+        "has_participant_tsv": true,
+        "nb_subjects": 6,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003844",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000170": {
+        "name": "ds000170",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000170",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds004109": {
+        "name": "ds004109",
+        "has_participant_tsv": true,
+        "nb_subjects": 31,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004109",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003822": {
+        "name": "ds003822",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003822",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002033": {
+        "name": "ds002033",
+        "has_participant_tsv": true,
+        "nb_subjects": 43,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002033",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004280": {
+        "name": "ds004280",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004280",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002158": {
+        "name": "ds002158",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002158",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003887": {
+        "name": "ds003887",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003887",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004186": {
+        "name": "ds004186",
+        "has_participant_tsv": true,
+        "nb_subjects": 2951,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004186",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001882": {
+        "name": "ds001882",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001882",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001838": {
+        "name": "ds001838",
+        "has_participant_tsv": true,
+        "nb_subjects": 53,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001838",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003565": {
+        "name": "ds003565",
+        "has_participant_tsv": true,
+        "nb_subjects": 156,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003565",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001653": {
+        "name": "ds001653",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001653",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001491": {
+        "name": "ds001491",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001491",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004408": {
+        "name": "ds004408",
+        "has_participant_tsv": true,
+        "nb_subjects": 33,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004408",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003478": {
+        "name": "ds003478",
+        "has_participant_tsv": true,
+        "nb_subjects": 122,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003478",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002270": {
+        "name": "ds002270",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002270",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004393": {
+        "name": "ds004393",
+        "has_participant_tsv": true,
+        "nb_subjects": 32,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004393",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003653": {
+        "name": "ds003653",
+        "has_participant_tsv": true,
+        "nb_subjects": 87,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003653",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002731": {
+        "name": "ds002731",
+        "has_participant_tsv": true,
+        "nb_subjects": 59,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002731",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002886": {
+        "name": "ds002886",
+        "has_participant_tsv": true,
+        "nb_subjects": 56,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002886",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds004123": {
+        "name": "ds004123",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004123",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002793": {
+        "name": "ds002793",
+        "has_participant_tsv": true,
+        "nb_subjects": 28,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002793",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003374": {
+        "name": "ds003374",
+        "has_participant_tsv": true,
+        "nb_subjects": 9,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003374",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003799": {
+        "name": "ds003799",
+        "has_participant_tsv": true,
+        "nb_subjects": 48,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003799",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": true
+    },
+    "ds003972": {
+        "name": "ds003972",
+        "has_participant_tsv": true,
+        "nb_subjects": 8,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003972",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002016": {
+        "name": "ds002016",
+        "has_participant_tsv": true,
+        "nb_subjects": 4,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002016",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001338": {
+        "name": "ds001338",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001338",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003766": {
+        "name": "ds003766",
+        "has_participant_tsv": true,
+        "nb_subjects": 31,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003766",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002939": {
+        "name": "ds002939",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002939",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002702": {
+        "name": "ds002702",
+        "has_participant_tsv": true,
+        "nb_subjects": 11,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002702",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001890": {
+        "name": "ds001890",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001890",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002727": {
+        "name": "ds002727",
+        "has_participant_tsv": true,
+        "nb_subjects": 23,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002727",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds001942": {
+        "name": "ds001942",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001942",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003495": {
+        "name": "ds003495",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003495",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds000217": {
+        "name": "ds000217",
+        "has_participant_tsv": true,
+        "nb_subjects": 41,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000217",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003711": {
+        "name": "ds003711",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003711",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003470": {
+        "name": "ds003470",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003470",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004018": {
+        "name": "ds004018",
+        "has_participant_tsv": true,
+        "nb_subjects": 16,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004018",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001168": {
+        "name": "ds001168",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001168",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003421": {
+        "name": "ds003421",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003421",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004212": {
+        "name": "ds004212",
+        "has_participant_tsv": true,
+        "nb_subjects": 5,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004212",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001927": {
+        "name": "ds001927",
+        "has_participant_tsv": true,
+        "nb_subjects": 23,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001927",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003545": {
+        "name": "ds003545",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003545",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001297": {
+        "name": "ds001297",
+        "has_participant_tsv": true,
+        "nb_subjects": 33,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001297",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002366": {
+        "name": "ds002366",
+        "has_participant_tsv": true,
+        "nb_subjects": 34,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002366",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004264": {
+        "name": "ds004264",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004264",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003500": {
+        "name": "ds003500",
+        "has_participant_tsv": true,
+        "nb_subjects": 38,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003500",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds002683": {
+        "name": "ds002683",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002683",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001761": {
+        "name": "ds001761",
+        "has_participant_tsv": true,
+        "nb_subjects": 4,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001761",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003885": {
+        "name": "ds003885",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003885",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003012": {
+        "name": "ds003012",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003012",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002833": {
+        "name": "ds002833",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002833",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002242": {
+        "name": "ds002242",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002242",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000210": {
+        "name": "ds000210",
+        "has_participant_tsv": true,
+        "nb_subjects": 31,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000210",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004021": {
+        "name": "ds004021",
+        "has_participant_tsv": true,
+        "nb_subjects": 32,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004021",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003007": {
+        "name": "ds003007",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003007",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000017": {
+        "name": "ds000017",
+        "has_participant_tsv": true,
+        "nb_subjects": 8,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000017",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003922": {
+        "name": "ds003922",
+        "has_participant_tsv": true,
+        "nb_subjects": 14,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003922",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004332": {
+        "name": "ds004332",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004332",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002938": {
+        "name": "ds002938",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002938",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003425": {
+        "name": "ds003425",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003425",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002995": {
+        "name": "ds002995",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002995",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002080": {
+        "name": "ds002080",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002080",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001421": {
+        "name": "ds001421",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001421",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001408": {
+        "name": "ds001408",
+        "has_participant_tsv": true,
+        "nb_subjects": 52,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001408",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001608": {
+        "name": "ds001608",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001608",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004000": {
+        "name": "ds004000",
+        "has_participant_tsv": true,
+        "nb_subjects": 43,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004000",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003517": {
+        "name": "ds003517",
+        "has_participant_tsv": true,
+        "nb_subjects": 17,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003517",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001748": {
+        "name": "ds001748",
+        "has_participant_tsv": true,
+        "nb_subjects": 62,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001748",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001796": {
+        "name": "ds001796",
+        "has_participant_tsv": true,
+        "nb_subjects": 64,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001796",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001517": {
+        "name": "ds001517",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001517",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001971": {
+        "name": "ds001971",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001971",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004141": {
+        "name": "ds004141",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004141",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003192": {
+        "name": "ds003192",
+        "has_participant_tsv": true,
+        "nb_subjects": 7,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003192",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002797": {
+        "name": "ds002797",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002797",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002543": {
+        "name": "ds002543",
+        "has_participant_tsv": true,
+        "nb_subjects": 49,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002543",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003967": {
+        "name": "ds003967",
+        "has_participant_tsv": true,
+        "nb_subjects": 60,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003967",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003047": {
+        "name": "ds003047",
+        "has_participant_tsv": true,
+        "nb_subjects": 11,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003047",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003464": {
+        "name": "ds003464",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003464",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004094": {
+        "name": "ds004094",
+        "has_participant_tsv": true,
+        "nb_subjects": 37,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004094",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002393": {
+        "name": "ds002393",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002393",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000223": {
+        "name": "ds000223",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000223",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds002848": {
+        "name": "ds002848",
+        "has_participant_tsv": true,
+        "nb_subjects": 5,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002848",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003550": {
+        "name": "ds003550",
+        "has_participant_tsv": true,
+        "nb_subjects": 38,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003550",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001545": {
+        "name": "ds001545",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001545",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000253": {
+        "name": "ds000253",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000253",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds004106": {
+        "name": "ds004106",
+        "has_participant_tsv": true,
+        "nb_subjects": 27,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004106",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000117": {
+        "name": "ds000117",
+        "has_participant_tsv": true,
+        "nb_subjects": 16,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000117",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003519": {
+        "name": "ds003519",
+        "has_participant_tsv": true,
+        "nb_subjects": 27,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003519",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003523": {
+        "name": "ds003523",
+        "has_participant_tsv": true,
+        "nb_subjects": 91,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003523",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001547": {
+        "name": "ds001547",
+        "has_participant_tsv": true,
+        "nb_subjects": 5,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001547",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001510": {
+        "name": "ds001510",
+        "has_participant_tsv": true,
+        "nb_subjects": 31,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001510",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002013": {
+        "name": "ds002013",
+        "has_participant_tsv": true,
+        "nb_subjects": 4,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002013",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002006": {
+        "name": "ds002006",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002006",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001747": {
+        "name": "ds001747",
+        "has_participant_tsv": true,
+        "nb_subjects": 92,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001747",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002250": {
+        "name": "ds002250",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002250",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004400": {
+        "name": "ds004400",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004400",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001511": {
+        "name": "ds001511",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001511",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000247": {
+        "name": "ds000247",
+        "has_participant_tsv": true,
+        "nb_subjects": 5,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000247",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000233": {
+        "name": "ds000233",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000233",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds001229": {
+        "name": "ds001229",
+        "has_participant_tsv": true,
+        "nb_subjects": 27,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001229",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002724": {
+        "name": "ds002724",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002724",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000121": {
+        "name": "ds000121",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000121",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003146": {
+        "name": "ds003146",
+        "has_participant_tsv": true,
+        "nb_subjects": 33,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003146",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002799": {
+        "name": "ds002799",
+        "has_participant_tsv": true,
+        "nb_subjects": 26,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002799",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003620": {
+        "name": "ds003620",
+        "has_participant_tsv": true,
+        "nb_subjects": 44,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003620",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002041": {
+        "name": "ds002041",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002041",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004288": {
+        "name": "ds004288",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004288",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000115": {
+        "name": "ds000115",
+        "has_participant_tsv": true,
+        "nb_subjects": 99,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000115",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004033": {
+        "name": "ds004033",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004033",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002732": {
+        "name": "ds002732",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002732",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003401": {
+        "name": "ds003401",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003401",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004092": {
+        "name": "ds004092",
+        "has_participant_tsv": true,
+        "nb_subjects": 27,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004092",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000200": {
+        "name": "ds000200",
+        "has_participant_tsv": true,
+        "nb_subjects": 14,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000200",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003357": {
+        "name": "ds003357",
+        "has_participant_tsv": true,
+        "nb_subjects": 32,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003357",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004040": {
+        "name": "ds004040",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004040",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004215": {
+        "name": "ds004215",
+        "has_participant_tsv": true,
+        "nb_subjects": 157,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004215",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds002872": {
+        "name": "ds002872",
+        "has_participant_tsv": true,
+        "nb_subjects": 39,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002872",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds001525": {
+        "name": "ds001525",
+        "has_participant_tsv": true,
+        "nb_subjects": 17,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001525",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004117": {
+        "name": "ds004117",
+        "has_participant_tsv": true,
+        "nb_subjects": 23,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004117",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004401": {
+        "name": "ds004401",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004401",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002181": {
+        "name": "ds002181",
+        "has_participant_tsv": true,
+        "nb_subjects": 226,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002181",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000172": {
+        "name": "ds000172",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000172",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004362": {
+        "name": "ds004362",
+        "has_participant_tsv": true,
+        "nb_subjects": 109,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004362",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000110": {
+        "name": "ds000110",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000110",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003498": {
+        "name": "ds003498",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003498",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000114": {
+        "name": "ds000114",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000114",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002551": {
+        "name": "ds002551",
+        "has_participant_tsv": true,
+        "nb_subjects": 7,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002551",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003487": {
+        "name": "ds003487",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003487",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004078": {
+        "name": "ds004078",
+        "has_participant_tsv": true,
+        "nb_subjects": 12,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004078",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001981": {
+        "name": "ds001981",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001981",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004121": {
+        "name": "ds004121",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004121",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004173": {
+        "name": "ds004173",
+        "has_participant_tsv": true,
+        "nb_subjects": 148,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004173",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002105": {
+        "name": "ds002105",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002105",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002813": {
+        "name": "ds002813",
+        "has_participant_tsv": true,
+        "nb_subjects": 38,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002813",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003638": {
+        "name": "ds003638",
+        "has_participant_tsv": true,
+        "nb_subjects": 57,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003638",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002879": {
+        "name": "ds002879",
+        "has_participant_tsv": true,
+        "nb_subjects": 32,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002879",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002843": {
+        "name": "ds002843",
+        "has_participant_tsv": true,
+        "nb_subjects": 166,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002843",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004142": {
+        "name": "ds004142",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004142",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000148": {
+        "name": "ds000148",
+        "has_participant_tsv": true,
+        "nb_subjects": 49,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000148",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003242": {
+        "name": "ds003242",
+        "has_participant_tsv": true,
+        "nb_subjects": 96,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003242",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002322": {
+        "name": "ds002322",
+        "has_participant_tsv": true,
+        "nb_subjects": 26,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002322",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003969": {
+        "name": "ds003969",
+        "has_participant_tsv": true,
+        "nb_subjects": 98,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003969",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004213": {
+        "name": "ds004213",
+        "has_participant_tsv": true,
+        "nb_subjects": 5,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004213",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003592": {
+        "name": "ds003592",
+        "has_participant_tsv": true,
+        "nb_subjects": 301,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003592",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003516": {
+        "name": "ds003516",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003516",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004015": {
+        "name": "ds004015",
+        "has_participant_tsv": true,
+        "nb_subjects": 36,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004015",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002185": {
+        "name": "ds002185",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002185",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003076": {
+        "name": "ds003076",
+        "has_participant_tsv": true,
+        "nb_subjects": 17,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003076",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001021": {
+        "name": "ds001021",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001021",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003800": {
+        "name": "ds003800",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003800",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000005": {
+        "name": "ds000005",
+        "has_participant_tsv": true,
+        "nb_subjects": 16,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000005",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004100": {
+        "name": "ds004100",
+        "has_participant_tsv": true,
+        "nb_subjects": 57,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004100",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003805": {
+        "name": "ds003805",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003805",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003791": {
+        "name": "ds003791",
+        "has_participant_tsv": true,
+        "nb_subjects": 49,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003791",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004298": {
+        "name": "ds004298",
+        "has_participant_tsv": true,
+        "nb_subjects": 40,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004298",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000246": {
+        "name": "ds000246",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000246",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003702": {
+        "name": "ds003702",
+        "has_participant_tsv": true,
+        "nb_subjects": 47,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003702",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004315": {
+        "name": "ds004315",
+        "has_participant_tsv": true,
+        "nb_subjects": 50,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004315",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001345": {
+        "name": "ds001345",
+        "has_participant_tsv": true,
+        "nb_subjects": 12,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001345",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003506": {
+        "name": "ds003506",
+        "has_participant_tsv": true,
+        "nb_subjects": 56,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003506",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002776": {
+        "name": "ds002776",
+        "has_participant_tsv": true,
+        "nb_subjects": 26,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002776",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000002": {
+        "name": "ds000002",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000002",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003028": {
+        "name": "ds003028",
+        "has_participant_tsv": true,
+        "nb_subjects": 26,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003028",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003944": {
+        "name": "ds003944",
+        "has_participant_tsv": true,
+        "nb_subjects": 82,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003944",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001226": {
+        "name": "ds001226",
+        "has_participant_tsv": true,
+        "nb_subjects": 36,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001226",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004091": {
+        "name": "ds004091",
+        "has_participant_tsv": true,
+        "nb_subjects": 8,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004091",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001161": {
+        "name": "ds001161",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001161",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001787": {
+        "name": "ds001787",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001787",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003216": {
+        "name": "ds003216",
+        "has_participant_tsv": true,
+        "nb_subjects": 3,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003216",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000208": {
+        "name": "ds000208",
+        "has_participant_tsv": true,
+        "nb_subjects": 76,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000208",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001454": {
+        "name": "ds001454",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001454",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003999": {
+        "name": "ds003999",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003999",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000236": {
+        "name": "ds000236",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000236",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds001883": {
+        "name": "ds001883",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001883",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003424": {
+        "name": "ds003424",
+        "has_participant_tsv": true,
+        "nb_subjects": 28,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003424",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004301": {
+        "name": "ds004301",
+        "has_participant_tsv": true,
+        "nb_subjects": 11,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004301",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003397": {
+        "name": "ds003397",
+        "has_participant_tsv": true,
+        "nb_subjects": 15,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003397",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001344": {
+        "name": "ds001344",
+        "has_participant_tsv": true,
+        "nb_subjects": 15,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001344",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001590": {
+        "name": "ds001590",
+        "has_participant_tsv": true,
+        "nb_subjects": 32,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001590",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003753": {
+        "name": "ds003753",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003753",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004006": {
+        "name": "ds004006",
+        "has_participant_tsv": true,
+        "nb_subjects": 41,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004006",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004116": {
+        "name": "ds004116",
+        "has_participant_tsv": true,
+        "nb_subjects": 209,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004116",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001499": {
+        "name": "ds001499",
+        "has_participant_tsv": true,
+        "nb_subjects": 4,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001499",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003136": {
+        "name": "ds003136",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003136",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds001529": {
+        "name": "ds001529",
+        "has_participant_tsv": true,
+        "nb_subjects": 38,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001529",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003690": {
+        "name": "ds003690",
+        "has_participant_tsv": true,
+        "nb_subjects": 75,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003690",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003029": {
+        "name": "ds003029",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003029",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004151": {
+        "name": "ds004151",
+        "has_participant_tsv": true,
+        "nb_subjects": 57,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004151",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003745": {
+        "name": "ds003745",
+        "has_participant_tsv": true,
+        "nb_subjects": 97,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003745",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002647": {
+        "name": "ds002647",
+        "has_participant_tsv": true,
+        "nb_subjects": 91,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002647",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003612": {
+        "name": "ds003612",
+        "has_participant_tsv": true,
+        "nb_subjects": 51,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003612",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004367": {
+        "name": "ds004367",
+        "has_participant_tsv": true,
+        "nb_subjects": 40,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004367",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002723": {
+        "name": "ds002723",
+        "has_participant_tsv": true,
+        "nb_subjects": 8,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002723",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000116": {
+        "name": "ds000116",
+        "has_participant_tsv": true,
+        "nb_subjects": 17,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000116",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002603": {
+        "name": "ds002603",
+        "has_participant_tsv": true,
+        "nb_subjects": 23,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002603",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002885": {
+        "name": "ds002885",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002885",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004147": {
+        "name": "ds004147",
+        "has_participant_tsv": true,
+        "nb_subjects": 12,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004147",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001919": {
+        "name": "ds001919",
+        "has_participant_tsv": true,
+        "nb_subjects": 254,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001919",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001353": {
+        "name": "ds001353",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001353",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001771": {
+        "name": "ds001771",
+        "has_participant_tsv": true,
+        "nb_subjects": 40,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001771",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003195": {
+        "name": "ds003195",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003195",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000113": {
+        "name": "ds000113",
+        "has_participant_tsv": true,
+        "nb_subjects": 37,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000113",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004044": {
+        "name": "ds004044",
+        "has_participant_tsv": true,
+        "nb_subjects": 62,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004044",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000001": {
+        "name": "ds000001",
+        "has_participant_tsv": true,
+        "nb_subjects": 16,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000001",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002363": {
+        "name": "ds002363",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002363",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003542": {
+        "name": "ds003542",
+        "has_participant_tsv": true,
+        "nb_subjects": 34,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003542",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002748": {
+        "name": "ds002748",
+        "has_participant_tsv": true,
+        "nb_subjects": 72,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002748",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004346": {
+        "name": "ds004346",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004346",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004253": {
+        "name": "ds004253",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004253",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003346": {
+        "name": "ds003346",
+        "has_participant_tsv": true,
+        "nb_subjects": 145,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003346",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001417": {
+        "name": "ds001417",
+        "has_participant_tsv": true,
+        "nb_subjects": 36,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001417",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003722": {
+        "name": "ds003722",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003722",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002725": {
+        "name": "ds002725",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002725",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002382": {
+        "name": "ds002382",
+        "has_participant_tsv": true,
+        "nb_subjects": 61,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002382",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004276": {
+        "name": "ds004276",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004276",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004194": {
+        "name": "ds004194",
+        "has_participant_tsv": true,
+        "nb_subjects": 11,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004194",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002685": {
+        "name": "ds002685",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002685",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003083": {
+        "name": "ds003083",
+        "has_participant_tsv": true,
+        "nb_subjects": 26,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003083",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000244": {
+        "name": "ds000244",
+        "has_participant_tsv": true,
+        "nb_subjects": 12,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000244",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003721": {
+        "name": "ds003721",
+        "has_participant_tsv": true,
+        "nb_subjects": 35,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003721",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004331": {
+        "name": "ds004331",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004331",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001348": {
+        "name": "ds001348",
+        "has_participant_tsv": true,
+        "nb_subjects": 28,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001348",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000224": {
+        "name": "ds000224",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000224",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": true
+    },
+    "ds002307": {
+        "name": "ds002307",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002307",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000235": {
+        "name": "ds000235",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000235",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds002134": {
+        "name": "ds002134",
+        "has_participant_tsv": true,
+        "nb_subjects": 31,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002134",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000201": {
+        "name": "ds000201",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000201",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds001740": {
+        "name": "ds001740",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001740",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002338": {
+        "name": "ds002338",
+        "has_participant_tsv": true,
+        "nb_subjects": 17,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002338",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003465": {
+        "name": "ds003465",
+        "has_participant_tsv": true,
+        "nb_subjects": 55,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003465",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003846": {
+        "name": "ds003846",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003846",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003004": {
+        "name": "ds003004",
+        "has_participant_tsv": true,
+        "nb_subjects": 34,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003004",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003399": {
+        "name": "ds003399",
+        "has_participant_tsv": true,
+        "nb_subjects": 6,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003399",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003554": {
+        "name": "ds003554",
+        "has_participant_tsv": true,
+        "nb_subjects": 41,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003554",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001450": {
+        "name": "ds001450",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001450",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003688": {
+        "name": "ds003688",
+        "has_participant_tsv": true,
+        "nb_subjects": 63,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003688",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003507": {
+        "name": "ds003507",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003507",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001619": {
+        "name": "ds001619",
+        "has_participant_tsv": true,
+        "nb_subjects": 11,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001619",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000220": {
+        "name": "ds000220",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000220",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003639": {
+        "name": "ds003639",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003639",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000229": {
+        "name": "ds000229",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000229",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds004120": {
+        "name": "ds004120",
+        "has_participant_tsv": true,
+        "nb_subjects": 109,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004120",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001818": {
+        "name": "ds001818",
+        "has_participant_tsv": true,
+        "nb_subjects": 50,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001818",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004262": {
+        "name": "ds004262",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004262",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001534": {
+        "name": "ds001534",
+        "has_participant_tsv": true,
+        "nb_subjects": 42,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001534",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002722": {
+        "name": "ds002722",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002722",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003420": {
+        "name": "ds003420",
+        "has_participant_tsv": true,
+        "nb_subjects": 23,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003420",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000205": {
+        "name": "ds000205",
+        "has_participant_tsv": true,
+        "nb_subjects": 11,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000205",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003772": {
+        "name": "ds003772",
+        "has_participant_tsv": true,
+        "nb_subjects": 32,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003772",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003095": {
+        "name": "ds003095",
+        "has_participant_tsv": true,
+        "nb_subjects": 38,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003095",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001810": {
+        "name": "ds001810",
+        "has_participant_tsv": true,
+        "nb_subjects": 47,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001810",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001299": {
+        "name": "ds001299",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001299",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003787": {
+        "name": "ds003787",
+        "has_participant_tsv": true,
+        "nb_subjects": 44,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003787",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003858": {
+        "name": "ds003858",
+        "has_participant_tsv": true,
+        "nb_subjects": 12,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003858",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001785": {
+        "name": "ds001785",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001785",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002116": {
+        "name": "ds002116",
+        "has_participant_tsv": true,
+        "nb_subjects": 57,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002116",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001868": {
+        "name": "ds001868",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001868",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002785": {
+        "name": "ds002785",
+        "has_participant_tsv": true,
+        "nb_subjects": 216,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002785",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds001966": {
+        "name": "ds001966",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001966",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003763": {
+        "name": "ds003763",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003763",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001461": {
+        "name": "ds001461",
+        "has_participant_tsv": true,
+        "nb_subjects": 81,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001461",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004302": {
+        "name": "ds004302",
+        "has_participant_tsv": true,
+        "nb_subjects": 71,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004302",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002994": {
+        "name": "ds002994",
+        "has_participant_tsv": true,
+        "nb_subjects": 56,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002994",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004254": {
+        "name": "ds004254",
+        "has_participant_tsv": true,
+        "nb_subjects": 15,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004254",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002522": {
+        "name": "ds002522",
+        "has_participant_tsv": true,
+        "nb_subjects": 48,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002522",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003511": {
+        "name": "ds003511",
+        "has_participant_tsv": true,
+        "nb_subjects": 40,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003511",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003821": {
+        "name": "ds003821",
+        "has_participant_tsv": true,
+        "nb_subjects": 284,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003821",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003194": {
+        "name": "ds003194",
+        "has_participant_tsv": true,
+        "nb_subjects": 15,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003194",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001354": {
+        "name": "ds001354",
+        "has_participant_tsv": true,
+        "nb_subjects": 28,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001354",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001541": {
+        "name": "ds001541",
+        "has_participant_tsv": true,
+        "nb_subjects": 16,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001541",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002790": {
+        "name": "ds002790",
+        "has_participant_tsv": true,
+        "nb_subjects": 226,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002790",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003427": {
+        "name": "ds003427",
+        "has_participant_tsv": true,
+        "nb_subjects": 4,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003427",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000144": {
+        "name": "ds000144",
+        "has_participant_tsv": true,
+        "nb_subjects": 45,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000144",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003008": {
+        "name": "ds003008",
+        "has_participant_tsv": true,
+        "nb_subjects": 49,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003008",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003604": {
+        "name": "ds003604",
+        "has_participant_tsv": true,
+        "nb_subjects": 322,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003604",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": true
+    },
+    "ds002837": {
+        "name": "ds002837",
+        "has_participant_tsv": true,
+        "nb_subjects": 86,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002837",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds004299": {
+        "name": "ds004299",
+        "has_participant_tsv": true,
+        "nb_subjects": 123,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004299",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002814": {
+        "name": "ds002814",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002814",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002424": {
+        "name": "ds002424",
+        "has_participant_tsv": true,
+        "nb_subjects": 79,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002424",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds002000": {
+        "name": "ds002000",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002000",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000256": {
+        "name": "ds000256",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000256",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003039": {
+        "name": "ds003039",
+        "has_participant_tsv": true,
+        "nb_subjects": 16,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003039",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001399": {
+        "name": "ds001399",
+        "has_participant_tsv": true,
+        "nb_subjects": 3,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001399",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003097": {
+        "name": "ds003097",
+        "has_participant_tsv": true,
+        "nb_subjects": 928,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003097",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003553": {
+        "name": "ds003553",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003553",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000138": {
+        "name": "ds000138",
+        "has_participant_tsv": true,
+        "nb_subjects": 16,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000138",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002169": {
+        "name": "ds002169",
+        "has_participant_tsv": true,
+        "nb_subjects": 33,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002169",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003017": {
+        "name": "ds003017",
+        "has_participant_tsv": true,
+        "nb_subjects": 25,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003017",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003466": {
+        "name": "ds003466",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003466",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004166": {
+        "name": "ds004166",
+        "has_participant_tsv": true,
+        "nb_subjects": 71,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004166",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002894": {
+        "name": "ds002894",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002894",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001848": {
+        "name": "ds001848",
+        "has_participant_tsv": true,
+        "nb_subjects": 52,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001848",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001228": {
+        "name": "ds001228",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001228",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003518": {
+        "name": "ds003518",
+        "has_participant_tsv": true,
+        "nb_subjects": 110,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003518",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004317": {
+        "name": "ds004317",
+        "has_participant_tsv": true,
+        "nb_subjects": 50,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004317",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003340": {
+        "name": "ds003340",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003340",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001167": {
+        "name": "ds001167",
+        "has_participant_tsv": true,
+        "nb_subjects": 40,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001167",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000011": {
+        "name": "ds000011",
+        "has_participant_tsv": true,
+        "nb_subjects": 14,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000011",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004229": {
+        "name": "ds004229",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004229",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002094": {
+        "name": "ds002094",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002094",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001415": {
+        "name": "ds001415",
+        "has_participant_tsv": true,
+        "nb_subjects": 21,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001415",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004011": {
+        "name": "ds004011",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004011",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000008": {
+        "name": "ds000008",
+        "has_participant_tsv": true,
+        "nb_subjects": 14,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000008",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003696": {
+        "name": "ds003696",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003696",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004056": {
+        "name": "ds004056",
+        "has_participant_tsv": true,
+        "nb_subjects": 29,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004056",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003801": {
+        "name": "ds003801",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003801",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002578": {
+        "name": "ds002578",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002578",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003522": {
+        "name": "ds003522",
+        "has_participant_tsv": true,
+        "nb_subjects": 96,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003522",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002773": {
+        "name": "ds002773",
+        "has_participant_tsv": true,
+        "nb_subjects": 19,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002773",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000108": {
+        "name": "ds000108",
+        "has_participant_tsv": true,
+        "nb_subjects": 34,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000108",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003490": {
+        "name": "ds003490",
+        "has_participant_tsv": true,
+        "nb_subjects": 50,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003490",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001110": {
+        "name": "ds001110",
+        "has_participant_tsv": true,
+        "nb_subjects": 37,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001110",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004107": {
+        "name": "ds004107",
+        "has_participant_tsv": true,
+        "nb_subjects": 9,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004107",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004122": {
+        "name": "ds004122",
+        "has_participant_tsv": true,
+        "nb_subjects": 32,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004122",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001784": {
+        "name": "ds001784",
+        "has_participant_tsv": true,
+        "nb_subjects": 8,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001784",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004295": {
+        "name": "ds004295",
+        "has_participant_tsv": true,
+        "nb_subjects": 26,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004295",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003708": {
+        "name": "ds003708",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003708",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000133": {
+        "name": "ds000133",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000133",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds002687": {
+        "name": "ds002687",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002687",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003524": {
+        "name": "ds003524",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003524",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003354": {
+        "name": "ds003354",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003354",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": true
+    },
+    "ds002550": {
+        "name": "ds002550",
+        "has_participant_tsv": true,
+        "nb_subjects": 22,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002550",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000140": {
+        "name": "ds000140",
+        "has_participant_tsv": true,
+        "nb_subjects": 33,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000140",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000171": {
+        "name": "ds000171",
+        "has_participant_tsv": true,
+        "nb_subjects": 39,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000171",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003848": {
+        "name": "ds003848",
+        "has_participant_tsv": true,
+        "nb_subjects": 6,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003848",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000232": {
+        "name": "ds000232",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000232",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds004219": {
+        "name": "ds004219",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004219",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002606": {
+        "name": "ds002606",
+        "has_participant_tsv": true,
+        "nb_subjects": 10,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002606",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003777": {
+        "name": "ds003777",
+        "has_participant_tsv": true,
+        "nb_subjects": 4,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003777",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003453": {
+        "name": "ds003453",
+        "has_participant_tsv": true,
+        "nb_subjects": 39,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003453",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002940": {
+        "name": "ds002940",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002940",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001725": {
+        "name": "ds001725",
+        "has_participant_tsv": true,
+        "nb_subjects": 40,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001725",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003694": {
+        "name": "ds003694",
+        "has_participant_tsv": true,
+        "nb_subjects": 28,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003694",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004339": {
+        "name": "ds004339",
+        "has_participant_tsv": true,
+        "nb_subjects": 2,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004339",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004105": {
+        "name": "ds004105",
+        "has_participant_tsv": true,
+        "nb_subjects": 17,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004105",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002278": {
+        "name": "ds002278",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002278",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003643": {
+        "name": "ds003643",
+        "has_participant_tsv": true,
+        "nb_subjects": 112,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003643",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003548": {
+        "name": "ds003548",
+        "has_participant_tsv": true,
+        "nb_subjects": 16,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003548",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000231": {
+        "name": "ds000231",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000231",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds004200": {
+        "name": "ds004200",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004200",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002691": {
+        "name": "ds002691",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002691",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000234": {
+        "name": "ds000234",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000234",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds002547": {
+        "name": "ds002547",
+        "has_participant_tsv": true,
+        "nb_subjects": 26,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002547",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds002168": {
+        "name": "ds002168",
+        "has_participant_tsv": true,
+        "nb_subjects": 48,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002168",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002905": {
+        "name": "ds002905",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002905",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002674": {
+        "name": "ds002674",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002674",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003739": {
+        "name": "ds003739",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003739",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004278": {
+        "name": "ds004278",
+        "has_participant_tsv": true,
+        "nb_subjects": 30,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004278",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003400": {
+        "name": "ds003400",
+        "has_participant_tsv": true,
+        "nb_subjects": 6,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003400",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003392": {
+        "name": "ds003392",
+        "has_participant_tsv": true,
+        "nb_subjects": 12,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003392",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003782": {
+        "name": "ds003782",
+        "has_participant_tsv": true,
+        "nb_subjects": 40,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003782",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003416": {
+        "name": "ds003416",
+        "has_participant_tsv": true,
+        "nb_subjects": 97,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003416",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004129": {
+        "name": "ds004129",
+        "has_participant_tsv": true,
+        "nb_subjects": 1090,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004129",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds003703": {
+        "name": "ds003703",
+        "has_participant_tsv": true,
+        "nb_subjects": 34,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003703",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001131": {
+        "name": "ds001131",
+        "has_participant_tsv": true,
+        "nb_subjects": 54,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001131",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001233": {
+        "name": "ds001233",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001233",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001419": {
+        "name": "ds001419",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001419",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003574": {
+        "name": "ds003574",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003574",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004131": {
+        "name": "ds004131",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004131",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003947": {
+        "name": "ds003947",
+        "has_participant_tsv": true,
+        "nb_subjects": 61,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003947",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003965": {
+        "name": "ds003965",
+        "has_participant_tsv": true,
+        "nb_subjects": 1,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003965",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002835": {
+        "name": "ds002835",
+        "has_participant_tsv": true,
+        "nb_subjects": 26,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002835",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001928": {
+        "name": "ds001928",
+        "has_participant_tsv": true,
+        "nb_subjects": 40,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001928",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002862": {
+        "name": "ds002862",
+        "has_participant_tsv": true,
+        "nb_subjects": 71,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002862",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002791": {
+        "name": "ds002791",
+        "has_participant_tsv": true,
+        "nb_subjects": 23,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002791",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003020": {
+        "name": "ds003020",
+        "has_participant_tsv": true,
+        "nb_subjects": 8,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003020",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002711": {
+        "name": "ds002711",
+        "has_participant_tsv": true,
+        "nb_subjects": 15,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002711",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001242": {
+        "name": "ds001242",
+        "has_participant_tsv": true,
+        "nb_subjects": 52,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001242",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000009": {
+        "name": "ds000009",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000009",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds004347": {
+        "name": "ds004347",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004347",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004285": {
+        "name": "ds004285",
+        "has_participant_tsv": true,
+        "nb_subjects": 78,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004285",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004349": {
+        "name": "ds004349",
+        "has_participant_tsv": true,
+        "nb_subjects": 57,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004349",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003830": {
+        "name": "ds003830",
+        "has_participant_tsv": true,
+        "nb_subjects": 37,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003830",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003459": {
+        "name": "ds003459",
+        "has_participant_tsv": true,
+        "nb_subjects": 34,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003459",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": true
+    },
+    "ds000053": {
+        "name": "ds000053",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000053",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds003474": {
+        "name": "ds003474",
+        "has_participant_tsv": true,
+        "nb_subjects": 122,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003474",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds002149": {
+        "name": "ds002149",
+        "has_participant_tsv": true,
+        "nb_subjects": 20,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002149",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004118": {
+        "name": "ds004118",
+        "has_participant_tsv": true,
+        "nb_subjects": 156,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004118",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds001439": {
+        "name": "ds001439",
+        "has_participant_tsv": true,
+        "nb_subjects": 18,
+        "raw": "https://github.com/OpenNeuroDatasets/ds001439",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004010": {
+        "name": "ds004010",
+        "has_participant_tsv": true,
+        "nb_subjects": 24,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004010",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000239": {
+        "name": "ds000239",
+        "has_participant_tsv": true,
+        "nb_subjects": 3,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000239",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000168": {
+        "name": "ds000168",
+        "has_participant_tsv": true,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000168",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds002778": {
+        "name": "ds002778",
+        "has_participant_tsv": true,
+        "nb_subjects": 31,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002778",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds004128": {
+        "name": "ds004128",
+        "has_participant_tsv": true,
+        "nb_subjects": 32,
+        "raw": "https://github.com/OpenNeuroDatasets/ds004128",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003452": {
+        "name": "ds003452",
+        "has_participant_tsv": true,
+        "nb_subjects": 13,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003452",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003568": {
+        "name": "ds003568",
+        "has_participant_tsv": true,
+        "nb_subjects": 51,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003568",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds003798": {
+        "name": "ds003798",
+        "has_participant_tsv": false,
+        "nb_subjects": 117,
+        "raw": "https://github.com/OpenNeuroDatasets/ds003798",
+        "fmriprep": "https://github.com/OpenNeuroDatasets/fmriprep",
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds002295": {
+        "name": "ds002295",
+        "has_participant_tsv": false,
+        "nb_subjects": 7,
+        "raw": "https://github.com/OpenNeuroDatasets/ds002295",
+        "fmriprep": null,
+        "freesurfer": "https://github.com/OpenNeuroDatasets/freesurfer",
+        "mriqc": null,
+        "has_phenotype_dir": false
+    },
+    "ds000051": {
+        "name": "ds000051",
+        "has_participant_tsv": false,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000051",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds000241": {
+        "name": "ds000241",
+        "has_participant_tsv": false,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000241",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds000105": {
+        "name": "ds000105",
+        "has_participant_tsv": false,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000105",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds000164": {
+        "name": "ds000164",
+        "has_participant_tsv": false,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000164",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds000237": {
+        "name": "ds000237",
+        "has_participant_tsv": false,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000237",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds000216": {
+        "name": "ds000216",
+        "has_participant_tsv": false,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000216",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    },
+    "ds000052": {
+        "name": "ds000052",
+        "has_participant_tsv": false,
+        "nb_subjects": 0,
+        "raw": "https://github.com/OpenNeuroDatasets/ds000052",
+        "fmriprep": null,
+        "freesurfer": null,
+        "mriqc": "https://github.com/OpenNeuroDatasets/mriqc",
+        "has_phenotype_dir": false
+    }
+}

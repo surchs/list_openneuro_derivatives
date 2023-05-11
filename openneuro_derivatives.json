@@ -6,7 +6,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000102",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000102-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000102-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000102-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000102-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002411": {
         "name": "ds002411",
@@ -15,7 +16,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002411",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002411-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002411-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002411-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002411-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001419": {
         "name": "ds001419",
@@ -24,7 +26,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001419",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001419-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001419-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001419-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001419-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000170": {
         "name": "ds000170",
@@ -33,7 +36,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000170",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000170-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000170-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000170-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000170-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000144": {
         "name": "ds000144",
@@ -42,7 +46,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000144",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000144-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000144-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000144-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000144-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000218": {
         "name": "ds000218",
@@ -51,7 +56,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000218",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000218-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000218-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000218-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000218-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001832": {
         "name": "ds001832",
@@ -60,7 +66,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001832",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001832-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001832-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001832-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001832-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002687": {
         "name": "ds002687",
@@ -69,7 +76,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002687",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002687-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002687-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002687-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002687-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000205": {
         "name": "ds000205",
@@ -78,7 +86,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000205",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000205-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000205-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000205-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000205-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002748": {
         "name": "ds002748",
@@ -87,7 +96,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002748",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002748-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002748-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002748-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002748-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001748": {
         "name": "ds001748",
@@ -96,7 +106,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001748",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001748-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001748-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001748-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001748-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003242": {
         "name": "ds003242",
@@ -105,7 +116,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003242",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003242-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003242-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": null
+        "mriqc": null,
+        "has_phenotype_dir": false
     },
     "ds000243": {
         "name": "ds000243",
@@ -114,7 +126,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000243",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000243-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000243-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000243-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000243-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002898": {
         "name": "ds002898",
@@ -123,7 +136,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002898",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002898-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002898-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002898-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002898-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000208": {
         "name": "ds000208",
@@ -132,7 +146,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000208",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000208-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000208-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000208-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000208-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002014": {
         "name": "ds002014",
@@ -141,7 +156,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002014",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002014-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002014-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002014-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002014-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000228": {
         "name": "ds000228",
@@ -150,7 +166,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000228",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000228-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000228-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000228-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000228-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000109": {
         "name": "ds000109",
@@ -159,7 +176,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000109",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000109-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000109-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000109-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000109-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000114": {
         "name": "ds000114",
@@ -168,7 +186,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000114",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000114-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000114-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000114-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000114-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001734": {
         "name": "ds001734",
@@ -177,7 +196,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001734",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001734-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001734-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001734-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001734-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000120": {
         "name": "ds000120",
@@ -186,7 +206,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000120",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000120-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000120-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000120-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000120-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001497": {
         "name": "ds001497",
@@ -195,7 +216,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001497",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001497-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001497-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001497-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001497-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000157": {
         "name": "ds000157",
@@ -204,7 +226,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000157",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000157-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000157-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000157-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000157-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002153": {
         "name": "ds002153",
@@ -213,7 +236,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002153",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002153-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002153-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002153-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002153-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003007": {
         "name": "ds003007",
@@ -222,7 +246,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003007",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003007-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003007-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003007-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003007-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002422": {
         "name": "ds002422",
@@ -231,7 +256,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002422",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002422-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002422-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002422-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002422-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000009": {
         "name": "ds000009",
@@ -240,7 +266,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000009",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000009-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000009-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000009-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000009-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000117": {
         "name": "ds000117",
@@ -249,7 +276,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000117",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000117-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000117-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000117-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000117-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000008": {
         "name": "ds000008",
@@ -258,7 +286,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000008",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000008-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000008-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000008-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000008-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001338": {
         "name": "ds001338",
@@ -267,7 +296,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001338",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001338-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001338-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001338-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001338-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000220": {
         "name": "ds000220",
@@ -276,7 +306,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000220",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000220-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000220-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000220-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000220-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000213": {
         "name": "ds000213",
@@ -285,7 +316,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000213",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000213-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000213-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000213-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000213-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003085": {
         "name": "ds003085",
@@ -294,7 +326,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003085",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003085-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003085-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003085-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003085-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001345": {
         "name": "ds001345",
@@ -303,7 +336,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001345",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001345-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001345-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001345-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001345-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000105": {
         "name": "ds000105",
@@ -312,7 +346,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000105",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000105-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000105-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000105-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000105-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002886": {
         "name": "ds002886",
@@ -321,7 +356,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002886",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002886-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002886-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002886-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002886-mriqc",
+        "has_phenotype_dir": true
     },
     "ds000171": {
         "name": "ds000171",
@@ -330,7 +366,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000171",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000171-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000171-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000171-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000171-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002336": {
         "name": "ds002336",
@@ -339,7 +376,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002336",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002336-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002336-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002336-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002336-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000212": {
         "name": "ds000212",
@@ -348,7 +386,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000212",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000212-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000212-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000212-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000212-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000115": {
         "name": "ds000115",
@@ -357,7 +396,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000115",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000115-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000115-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000115-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000115-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001226": {
         "name": "ds001226",
@@ -366,7 +406,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001226",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001226-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001226-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001226-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001226-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002322": {
         "name": "ds002322",
@@ -375,7 +416,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002322",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002322-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002322-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002322-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002322-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000052": {
         "name": "ds000052",
@@ -384,7 +426,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000052",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000052-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000052-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000052-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000052-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001612": {
         "name": "ds001612",
@@ -393,7 +436,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001612",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds001612-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds001612-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001612-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001612-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000051": {
         "name": "ds000051",
@@ -402,7 +446,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000051",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000051-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000051-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000051-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000051-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000017": {
         "name": "ds000017",
@@ -411,7 +456,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000017",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000017-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000017-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000017-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000017-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000001": {
         "name": "ds000001",
@@ -420,7 +466,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000001",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000001-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000001-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000001-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000001-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000108": {
         "name": "ds000108",
@@ -429,7 +476,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000108",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000108-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000108-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000108-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000108-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000255": {
         "name": "ds000255",
@@ -438,7 +486,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000255",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000255-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000255-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000255-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000255-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002013": {
         "name": "ds002013",
@@ -447,7 +496,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002013",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002013-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002013-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002013-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002013-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000249": {
         "name": "ds000249",
@@ -456,7 +506,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000249",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000249-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000249-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000249-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000249-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000233": {
         "name": "ds000233",
@@ -465,7 +516,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000233",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000233-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000233-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000233-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000233-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000101": {
         "name": "ds000101",
@@ -474,7 +526,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000101",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000101-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000101-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000101-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000101-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002734": {
         "name": "ds002734",
@@ -483,7 +536,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002734",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002734-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002734-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002734-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002734-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000245": {
         "name": "ds000245",
@@ -492,7 +546,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000245",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000245-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000245-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000245-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000245-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003338": {
         "name": "ds003338",
@@ -501,7 +556,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003338",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003338-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003338-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": null
+        "mriqc": null,
+        "has_phenotype_dir": false
     },
     "ds000002": {
         "name": "ds000002",
@@ -510,7 +566,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000002",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000002-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000002-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000002-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000002-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002156": {
         "name": "ds002156",
@@ -519,7 +576,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002156",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002156-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002156-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002156-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002156-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002338": {
         "name": "ds002338",
@@ -528,7 +586,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002338",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds002338-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds002338-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002338-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002338-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003548": {
         "name": "ds003548",
@@ -537,7 +596,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003548",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003548-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003548-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003548-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003548-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000237": {
         "name": "ds000237",
@@ -546,7 +606,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000237",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds000237-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds000237-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000237-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000237-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003020": {
         "name": "ds003020",
@@ -555,7 +616,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003020",
         "fmriprep": "https://github.com/OpenNeuroDerivatives/ds003020-fmriprep",
         "freesurfer": "https://github.com/OpenNeuroDerivatives/ds003020-fmriprep/tree/main/sourcedata/freesurfer",
-        "mriqc": null
+        "mriqc": null,
+        "has_phenotype_dir": false
     },
     "ds003011": {
         "name": "ds003011",
@@ -564,7 +626,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003011",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003011-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003011-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002316": {
         "name": "ds002316",
@@ -573,7 +636,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002316",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002316-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002316-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003146": {
         "name": "ds003146",
@@ -582,7 +646,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003146",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003146-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003146-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002596": {
         "name": "ds002596",
@@ -591,7 +656,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002596",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002596-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002596-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002785": {
         "name": "ds002785",
@@ -600,7 +666,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002785",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002785-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002785-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001838": {
         "name": "ds001838",
@@ -609,7 +676,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001838",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001838-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001838-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003545": {
         "name": "ds003545",
@@ -618,7 +686,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003545",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003545-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003545-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002797": {
         "name": "ds002797",
@@ -627,7 +696,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002797",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002797-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002797-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003424": {
         "name": "ds003424",
@@ -636,7 +706,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003424",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003424-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003424-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001883": {
         "name": "ds001883",
@@ -645,7 +716,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001883",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001883-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001883-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003612": {
         "name": "ds003612",
@@ -654,7 +726,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003612",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003612-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003612-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000256": {
         "name": "ds000256",
@@ -663,7 +736,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000256",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000256-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000256-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003752": {
         "name": "ds003752",
@@ -672,7 +746,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003752",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003752-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003752-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002549": {
         "name": "ds002549",
@@ -681,7 +756,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002549",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002549-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002549-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001715": {
         "name": "ds001715",
@@ -690,7 +766,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001715",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001715-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001715-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003858": {
         "name": "ds003858",
@@ -699,7 +776,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003858",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003858-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003858-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003720": {
         "name": "ds003720",
@@ -708,7 +786,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003720",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003720-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003720-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000148": {
         "name": "ds000148",
@@ -717,7 +796,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000148",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000148-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000148-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003764": {
         "name": "ds003764",
@@ -726,7 +806,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003764",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003764-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003764-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000011": {
         "name": "ds000011",
@@ -735,7 +816,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000011",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000011-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000011-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003495": {
         "name": "ds003495",
@@ -744,7 +826,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003495",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003495-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003495-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002363": {
         "name": "ds002363",
@@ -753,7 +836,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002363",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002363-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002363-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001745": {
         "name": "ds001745",
@@ -762,7 +846,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001745",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001745-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001745-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001145": {
         "name": "ds001145",
@@ -771,7 +856,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001145",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001145-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001145-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002727": {
         "name": "ds002727",
@@ -780,7 +866,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002727",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002727-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002727-mriqc",
+        "has_phenotype_dir": true
     },
     "ds003717": {
         "name": "ds003717",
@@ -789,7 +876,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003717",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003717-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003717-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002608": {
         "name": "ds002608",
@@ -798,7 +886,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002608",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002608-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002608-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000005": {
         "name": "ds000005",
@@ -807,7 +896,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000005",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000005-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000005-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003782": {
         "name": "ds003782",
@@ -816,7 +906,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003782",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003782-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003782-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003500": {
         "name": "ds003500",
@@ -825,7 +916,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003500",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003500-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003500-mriqc",
+        "has_phenotype_dir": true
     },
     "ds002000": {
         "name": "ds002000",
@@ -834,7 +926,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002000",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002000-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002000-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003487": {
         "name": "ds003487",
@@ -843,7 +936,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003487",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003487-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003487-mriqc",
+        "has_phenotype_dir": false
     },
     "ds004006": {
         "name": "ds004006",
@@ -852,7 +946,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004006",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004006-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004006-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001818": {
         "name": "ds001818",
@@ -861,7 +956,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001818",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001818-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001818-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001297": {
         "name": "ds001297",
@@ -870,7 +966,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001297",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001297-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001297-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002424": {
         "name": "ds002424",
@@ -879,7 +976,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002424",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002424-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002424-mriqc",
+        "has_phenotype_dir": true
     },
     "ds004280": {
         "name": "ds004280",
@@ -888,7 +986,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004280",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004280-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004280-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001907": {
         "name": "ds001907",
@@ -897,7 +996,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001907",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001907-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001907-mriqc",
+        "has_phenotype_dir": false
     },
     "ds004073": {
         "name": "ds004073",
@@ -906,7 +1006,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004073",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004073-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004073-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001847": {
         "name": "ds001847",
@@ -915,7 +1016,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001847",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001847-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001847-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001178": {
         "name": "ds001178",
@@ -924,7 +1026,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001178",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001178-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001178-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002574": {
         "name": "ds002574",
@@ -933,7 +1036,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002574",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002574-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002574-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002848": {
         "name": "ds002848",
@@ -942,7 +1046,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002848",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002848-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002848-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000053": {
         "name": "ds000053",
@@ -951,7 +1056,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000053",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000053-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000053-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000253": {
         "name": "ds000253",
@@ -960,7 +1066,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000253",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000253-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000253-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003791": {
         "name": "ds003791",
@@ -969,7 +1076,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003791",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003791-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003791-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002715": {
         "name": "ds002715",
@@ -978,7 +1086,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002715",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002715-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002715-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001399": {
         "name": "ds001399",
@@ -987,7 +1096,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001399",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001399-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001399-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003433": {
         "name": "ds003433",
@@ -996,7 +1106,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003433",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003433-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003433-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002294": {
         "name": "ds002294",
@@ -1005,7 +1116,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002294",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002294-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002294-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001597": {
         "name": "ds001597",
@@ -1014,7 +1126,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001597",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001597-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001597-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003441": {
         "name": "ds003441",
@@ -1023,7 +1136,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003441",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003441-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003441-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001927": {
         "name": "ds001927",
@@ -1032,7 +1146,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001927",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001927-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001927-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003542": {
         "name": "ds003542",
@@ -1041,7 +1156,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003542",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003542-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003542-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001882": {
         "name": "ds001882",
@@ -1050,7 +1166,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001882",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001882-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001882-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002522": {
         "name": "ds002522",
@@ -1059,7 +1176,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002522",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002522-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002522-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000003": {
         "name": "ds000003",
@@ -1068,7 +1186,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000003",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000003-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000003-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003114": {
         "name": "ds003114",
@@ -1077,7 +1196,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003114",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003114-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003114-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002345": {
         "name": "ds002345",
@@ -1086,7 +1206,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002345",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002345-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002345-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002655": {
         "name": "ds002655",
@@ -1095,7 +1216,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002655",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002655-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002655-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001491": {
         "name": "ds001491",
@@ -1104,7 +1226,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001491",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001491-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001491-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002790": {
         "name": "ds002790",
@@ -1113,7 +1236,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002790",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002790-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002790-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000121": {
         "name": "ds000121",
@@ -1122,7 +1246,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000121",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000121-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000121-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003037": {
         "name": "ds003037",
@@ -1131,7 +1256,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003037",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003037-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003037-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002006": {
         "name": "ds002006",
@@ -1140,7 +1266,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002006",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002006-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002006-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001761": {
         "name": "ds001761",
@@ -1149,7 +1276,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001761",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001761-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001761-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002735": {
         "name": "ds002735",
@@ -1158,7 +1286,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002735",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002735-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002735-mriqc",
+        "has_phenotype_dir": false
     },
     "ds004128": {
         "name": "ds004128",
@@ -1167,7 +1296,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004128",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004128-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004128-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001848": {
         "name": "ds001848",
@@ -1176,7 +1306,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001848",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001848-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001848-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000254": {
         "name": "ds000254",
@@ -1185,7 +1316,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000254",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000254-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000254-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003521": {
         "name": "ds003521",
@@ -1194,7 +1326,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003521",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003521-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003521-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002236": {
         "name": "ds002236",
@@ -1203,7 +1336,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002236",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002236-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002236-mriqc",
+        "has_phenotype_dir": true
     },
     "ds003465": {
         "name": "ds003465",
@@ -1212,7 +1346,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003465",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003465-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003465-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001534": {
         "name": "ds001534",
@@ -1221,7 +1356,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001534",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001534-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001534-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002011": {
         "name": "ds002011",
@@ -1230,7 +1366,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002011",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002011-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002011-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000231": {
         "name": "ds000231",
@@ -1239,7 +1376,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000231",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000231-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000231-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001576": {
         "name": "ds001576",
@@ -1248,7 +1386,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001576",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001576-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001576-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001353": {
         "name": "ds001353",
@@ -1257,7 +1396,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001353",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001353-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001353-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001595": {
         "name": "ds001595",
@@ -1266,7 +1406,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001595",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001595-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001595-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000006": {
         "name": "ds000006",
@@ -1275,7 +1416,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000006",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000006-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000006-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003972": {
         "name": "ds003972",
@@ -1284,7 +1426,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003972",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003972-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003972-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002382": {
         "name": "ds002382",
@@ -1293,7 +1436,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002382",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002382-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002382-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002896": {
         "name": "ds002896",
@@ -1302,7 +1446,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002896",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002896-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002896-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003481": {
         "name": "ds003481",
@@ -1311,7 +1456,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003481",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003481-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003481-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001921": {
         "name": "ds001921",
@@ -1320,7 +1466,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001921",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001921-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001921-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002841": {
         "name": "ds002841",
@@ -1329,7 +1476,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002841",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002841-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002841-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002306": {
         "name": "ds002306",
@@ -1338,7 +1486,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002306",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002306-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002306-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002835": {
         "name": "ds002835",
@@ -1347,7 +1496,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002835",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002835-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002835-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001371": {
         "name": "ds001371",
@@ -1356,7 +1506,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001371",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001371-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001371-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003017": {
         "name": "ds003017",
@@ -1365,7 +1516,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003017",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003017-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003017-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002080": {
         "name": "ds002080",
@@ -1374,7 +1526,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002080",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002080-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002080-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001131": {
         "name": "ds001131",
@@ -1383,7 +1536,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001131",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001131-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001131-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000116": {
         "name": "ds000116",
@@ -1392,7 +1546,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000116",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000116-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000116-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001614": {
         "name": "ds001614",
@@ -1401,7 +1556,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001614",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001614-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001614-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001242": {
         "name": "ds001242",
@@ -1410,7 +1566,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001242",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001242-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001242-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000223": {
         "name": "ds000223",
@@ -1419,7 +1576,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000223",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000223-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000223-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001486": {
         "name": "ds001486",
@@ -1428,7 +1586,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001486",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001486-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001486-mriqc",
+        "has_phenotype_dir": true
     },
     "ds000203": {
         "name": "ds000203",
@@ -1437,7 +1596,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000203",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000203-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000203-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003434": {
         "name": "ds003434",
@@ -1446,7 +1606,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003434",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003434-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003434-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000229": {
         "name": "ds000229",
@@ -1455,7 +1616,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000229",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000229-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000229-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003397": {
         "name": "ds003397",
@@ -1464,7 +1626,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003397",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003397-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003397-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001339": {
         "name": "ds001339",
@@ -1473,7 +1636,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001339",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001339-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001339-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003469": {
         "name": "ds003469",
@@ -1482,7 +1646,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003469",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003469-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003469-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000030": {
         "name": "ds000030",
@@ -1491,7 +1656,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000030",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000030-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000030-mriqc",
+        "has_phenotype_dir": true
     },
     "ds003097": {
         "name": "ds003097",
@@ -1500,7 +1666,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003097",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003097-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003097-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001634": {
         "name": "ds001634",
@@ -1509,7 +1676,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001634",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001634-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001634-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002711": {
         "name": "ds002711",
@@ -1518,7 +1686,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002711",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002711-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002711-mriqc",
+        "has_phenotype_dir": false
     },
     "ds004086": {
         "name": "ds004086",
@@ -1527,7 +1696,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004086",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004086-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004086-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001344": {
         "name": "ds001344",
@@ -1536,7 +1706,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001344",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001344-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001344-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001840": {
         "name": "ds001840",
@@ -1545,7 +1716,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001840",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001840-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001840-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000219": {
         "name": "ds000219",
@@ -1554,7 +1726,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000219",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000219-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000219-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001923": {
         "name": "ds001923",
@@ -1563,7 +1736,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001923",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001923-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001923-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003763": {
         "name": "ds003763",
@@ -1572,7 +1746,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003763",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003763-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003763-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001946": {
         "name": "ds001946",
@@ -1581,7 +1756,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001946",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001946-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001946-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003604": {
         "name": "ds003604",
@@ -1590,7 +1766,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003604",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003604-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003604-mriqc",
+        "has_phenotype_dir": true
     },
     "ds002675": {
         "name": "ds002675",
@@ -1599,7 +1776,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002675",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002675-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002675-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001302": {
         "name": "ds001302",
@@ -1608,7 +1786,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001302",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001302-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001302-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002731": {
         "name": "ds002731",
@@ -1617,7 +1796,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002731",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002731-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002731-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002733": {
         "name": "ds002733",
@@ -1626,7 +1806,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002733",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002733-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002733-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003095": {
         "name": "ds003095",
@@ -1635,7 +1816,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003095",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003095-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003095-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001775": {
         "name": "ds001775",
@@ -1644,7 +1826,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001775",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001775-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001775-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002843": {
         "name": "ds002843",
@@ -1653,7 +1836,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002843",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002843-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002843-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003470": {
         "name": "ds003470",
@@ -1662,7 +1846,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003470",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003470-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003470-mriqc",
+        "has_phenotype_dir": false
     },
     "ds004007": {
         "name": "ds004007",
@@ -1671,7 +1856,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004007",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004007-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004007-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002033": {
         "name": "ds002033",
@@ -1680,7 +1866,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002033",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002033-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002033-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002155": {
         "name": "ds002155",
@@ -1689,7 +1876,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002155",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002155-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002155-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002813": {
         "name": "ds002813",
@@ -1698,7 +1886,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002813",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002813-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002813-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001232": {
         "name": "ds001232",
@@ -1707,7 +1896,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001232",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001232-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001232-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000258": {
         "name": "ds000258",
@@ -1716,7 +1906,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000258",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000258-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000258-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003831": {
         "name": "ds003831",
@@ -1725,7 +1916,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003831",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003831-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003831-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003711": {
         "name": "ds003711",
@@ -1734,7 +1926,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003711",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003711-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003711-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003768": {
         "name": "ds003768",
@@ -1743,7 +1936,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003768",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003768-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003768-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002799": {
         "name": "ds002799",
@@ -1752,7 +1946,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002799",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002799-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002799-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000119": {
         "name": "ds000119",
@@ -1761,7 +1956,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000119",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000119-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000119-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001762": {
         "name": "ds001762",
@@ -1770,7 +1966,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001762",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001762-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001762-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003089": {
         "name": "ds003089",
@@ -1779,7 +1976,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003089",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003089-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003089-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001357": {
         "name": "ds001357",
@@ -1788,7 +1986,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001357",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001357-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001357-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003076": {
         "name": "ds003076",
@@ -1797,7 +1996,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003076",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003076-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003076-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002149": {
         "name": "ds002149",
@@ -1806,7 +2006,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002149",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002149-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002149-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001894": {
         "name": "ds001894",
@@ -1815,7 +2016,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001894",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001894-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001894-mriqc",
+        "has_phenotype_dir": true
     },
     "ds001814": {
         "name": "ds001814",
@@ -1824,7 +2026,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001814",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001814-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001814-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002750": {
         "name": "ds002750",
@@ -1833,7 +2036,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002750",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002750-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002750-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003709": {
         "name": "ds003709",
@@ -1842,7 +2046,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003709",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003709-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003709-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002879": {
         "name": "ds002879",
@@ -1851,7 +2056,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002879",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002879-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002879-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001912": {
         "name": "ds001912",
@@ -1860,7 +2066,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001912",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001912-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001912-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002547": {
         "name": "ds002547",
@@ -1869,7 +2076,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002547",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002547-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002547-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003345": {
         "name": "ds003345",
@@ -1878,7 +2086,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003345",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003345-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003345-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003357": {
         "name": "ds003357",
@@ -1887,7 +2096,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003357",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003357-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003357-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003569": {
         "name": "ds003569",
@@ -1896,7 +2106,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003569",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003569-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003569-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003550": {
         "name": "ds003550",
@@ -1905,7 +2116,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003550",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003550-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003550-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001228": {
         "name": "ds001228",
@@ -1914,7 +2126,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001228",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001228-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001228-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003381": {
         "name": "ds003381",
@@ -1923,7 +2136,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003381",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003381-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003381-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000241": {
         "name": "ds000241",
@@ -1932,7 +2146,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000241",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000241-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000241-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001132": {
         "name": "ds001132",
@@ -1941,7 +2156,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001132",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001132-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001132-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000224": {
         "name": "ds000224",
@@ -1950,7 +2166,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000224",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000224-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000224-mriqc",
+        "has_phenotype_dir": true
     },
     "ds004094": {
         "name": "ds004094",
@@ -1959,7 +2176,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004094",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004094-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004094-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003436": {
         "name": "ds003436",
@@ -1968,7 +2186,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003436",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003436-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003436-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001521": {
         "name": "ds001521",
@@ -1977,7 +2196,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001521",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001521-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001521-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003083": {
         "name": "ds003083",
@@ -1986,7 +2206,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003083",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003083-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003083-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003669": {
         "name": "ds003669",
@@ -1995,7 +2216,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003669",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003669-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003669-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002250": {
         "name": "ds002250",
@@ -2004,7 +2226,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002250",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002250-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002250-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001241": {
         "name": "ds001241",
@@ -2013,7 +2236,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001241",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001241-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001241-mriqc",
+        "has_phenotype_dir": false
     },
     "ds004215": {
         "name": "ds004215",
@@ -2022,7 +2246,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004215",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004215-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004215-mriqc",
+        "has_phenotype_dir": true
     },
     "ds004144": {
         "name": "ds004144",
@@ -2031,7 +2256,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004144",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004144-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004144-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001417": {
         "name": "ds001417",
@@ -2040,7 +2266,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001417",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001417-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001417-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001607": {
         "name": "ds001607",
@@ -2049,7 +2276,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001607",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001607-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001607-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001229": {
         "name": "ds001229",
@@ -2058,7 +2286,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001229",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001229-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001229-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001590": {
         "name": "ds001590",
@@ -2067,7 +2296,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001590",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001590-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001590-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002543": {
         "name": "ds002543",
@@ -2076,7 +2306,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002543",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002543-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002543-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002837": {
         "name": "ds002837",
@@ -2085,7 +2316,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002837",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002837-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002837-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003661": {
         "name": "ds003661",
@@ -2094,7 +2326,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003661",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003661-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003661-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000217": {
         "name": "ds000217",
@@ -2103,7 +2336,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000217",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000217-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000217-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001299": {
         "name": "ds001299",
@@ -2112,7 +2346,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001299",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001299-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001299-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001635": {
         "name": "ds001635",
@@ -2121,7 +2356,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001635",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001635-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001635-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003772": {
         "name": "ds003772",
@@ -2130,7 +2366,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003772",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003772-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003772-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001235": {
         "name": "ds001235",
@@ -2139,7 +2376,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001235",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001235-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001235-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002878": {
         "name": "ds002878",
@@ -2148,7 +2386,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002878",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002878-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002878-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001928": {
         "name": "ds001928",
@@ -2157,7 +2396,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001928",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001928-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001928-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003507": {
         "name": "ds003507",
@@ -2166,7 +2406,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003507",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003507-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003507-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001747": {
         "name": "ds001747",
@@ -2175,7 +2416,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001747",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001747-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001747-mriqc",
+        "has_phenotype_dir": false
     },
     "ds004044": {
         "name": "ds004044",
@@ -2184,7 +2426,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004044",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004044-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004044-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001110": {
         "name": "ds001110",
@@ -2193,7 +2436,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001110",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001110-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001110-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003745": {
         "name": "ds003745",
@@ -2202,7 +2446,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003745",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003745-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003745-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002116": {
         "name": "ds002116",
@@ -2211,7 +2456,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002116",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002116-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002116-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002732": {
         "name": "ds002732",
@@ -2220,7 +2466,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002732",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002732-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002732-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003988": {
         "name": "ds003988",
@@ -2229,7 +2476,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003988",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003988-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003988-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001386": {
         "name": "ds001386",
@@ -2238,7 +2486,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001386",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001386-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001386-mriqc",
+        "has_phenotype_dir": false
     },
     "ds004226": {
         "name": "ds004226",
@@ -2247,7 +2496,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds004226",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004226-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds004226-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003126": {
         "name": "ds003126",
@@ -2256,7 +2506,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003126",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003126-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003126-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000133": {
         "name": "ds000133",
@@ -2265,7 +2516,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000133",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000133-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000133-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003342": {
         "name": "ds003342",
@@ -2274,7 +2526,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003342",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003342-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003342-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000168": {
         "name": "ds000168",
@@ -2283,7 +2536,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000168",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000168-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000168-mriqc",
+        "has_phenotype_dir": false
     },
     "ds003606": {
         "name": "ds003606",
@@ -2292,7 +2546,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds003606",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003606-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds003606-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001554": {
         "name": "ds001554",
@@ -2301,7 +2556,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001554",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001554-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001554-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002105": {
         "name": "ds002105",
@@ -2310,7 +2566,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002105",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002105-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002105-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000210": {
         "name": "ds000210",
@@ -2319,7 +2576,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000210",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000210-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000210-mriqc",
+        "has_phenotype_dir": false
     },
     "ds000140": {
         "name": "ds000140",
@@ -2328,7 +2586,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds000140",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000140-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds000140-mriqc",
+        "has_phenotype_dir": false
     },
     "ds002793": {
         "name": "ds002793",
@@ -2337,7 +2596,8 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds002793",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002793-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds002793-mriqc",
+        "has_phenotype_dir": false
     },
     "ds001608": {
         "name": "ds001608",
@@ -2346,6 +2606,7 @@
         "raw": "https://github.com/OpenNeuroDatasets/ds001608",
         "fmriprep": null,
         "freesurfer": null,
-        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001608-mriqc"
+        "mriqc": "https://github.com/OpenNeuroDerivatives/ds001608-mriqc",
+        "has_phenotype_dir": false
     }
 }
