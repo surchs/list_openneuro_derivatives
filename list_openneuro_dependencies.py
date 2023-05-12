@@ -63,14 +63,14 @@ def main():
 def has_mri(bids_pth: Path) -> bool:
     """Return True if at least one subject has at least one MRI modality."""
     return bool(
-        bids_pth.glob("sub*/func")
-        or bids_pth.glob("sub*/ses*/func")
-        or bids_pth.glob("sub*/anat")
-        or bids_pth.glob("sub*/ses*/anat")
-        or bids_pth.glob("sub*/dwi")
-        or bids_pth.glob("sub*/ses*/dwi")
-        or bids_pth.glob("sub*/perf")
-        or bids_pth.glob("sub*/ses*/perf")
+        list(bids_pth.glob("sub*/func"))
+        or list(bids_pth.glob("sub*/ses*/func"))
+        or list(bids_pth.glob("sub*/anat"))
+        or list(bids_pth.glob("sub*/ses*/anat"))
+        or list(bids_pth.glob("sub*/dwi"))
+        or list(bids_pth.glob("sub*/ses*/dwi"))
+        or list(bids_pth.glob("sub*/perf"))
+        or list(bids_pth.glob("sub*/ses*/perf"))
     )
 
 
@@ -103,7 +103,7 @@ def list_openneuro(datalad_superdataset: Path, datasets: dict[str, dict[str, str
     openneuro = datalad_superdataset / "openneuro"
     install_dataset(openneuro, verbose=VERBOSE)
 
-    raw_datasets = list(openneuro.glob("ds*"))
+    raw_datasets = sorted(list(openneuro.glob("ds*")))
 
     for dataset_pth in raw_datasets:
         dataset_name = dataset_pth.name
@@ -141,7 +141,7 @@ def list_openneuro_derivatives(datalad_superdataset: Path, datasets: dict[str, d
 
     install_dataset(openneuro_derivatives, verbose=VERBOSE)
 
-    mriqc_datasets = list(openneuro_derivatives.glob("*mriqc"))
+    mriqc_datasets = sorted(list(openneuro_derivatives.glob("*mriqc")))
 
     for dataset_pth in mriqc_datasets:
         dataset_name = dataset_pth.name.replace("-mriqc", "")
@@ -169,6 +169,28 @@ def list_openneuro_derivatives(datalad_superdataset: Path, datasets: dict[str, d
 
         for keys in datasets:
             datasets[keys].append(datatset[keys])
+
+    fmriprep_datasets = sorted(list(openneuro_derivatives.glob("*fmriprep")))
+    for dataset_pth in fmriprep_datasets:
+        dataset_name = dataset_pth.name.replace("-fmriprep", "")
+        if dataset_name not in datasets["name"]:
+            datatset = new_datatset(dataset_name)
+            datatset["nb_subjects"] = get_nb_subjects(dataset_pth)
+            datatset["has_mri"] = True
+            datatset["fmriprep"] = f"{URL_OPENNEURO_DERIVATIVES}{dataset_pth.name}"
+            datatset["has_participant_tsv"] = (
+                dataset_pth / "sourcedata" / "raw" / "participants.tsv"
+            ).exists()
+            if datatset["has_participant_tsv"]:
+                datatset["participant_columns"] = list_participants_tsv_columns(
+                    dataset_pth / "sourcedata" / "raw" / "participants.tsv"
+                )
+            datatset["has_phenotype_dir"] = (
+                dataset_pth / "sourcedata" / "raw" / "phenotype"
+            ).exists()
+            freesurfer_dataset = dataset_pth / "sourcedata" / "freesurfer"
+            if freesurfer_dataset.exists():
+                datatset["freesurfer"] = f"{datatset['fmriprep']}/tree/main/sourcedata/freesurfer"
 
     return datasets
 
