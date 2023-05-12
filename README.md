@@ -58,12 +58,9 @@ datalad install openneuro --recursive -J 12
 ## listing
 
 run `list_openneuro_dependencies.py` and it will
-will create a json file with basic info for each dataset and its derivatives.
+will create TSV file with basic info for each dataset and its derivatives.
 
 
 ## TODO:
 
-- improving checking status of participants.tsv
 - make it able to install datasets or subdatasets (especially `sourcedata/raw`) on the fly
-- list derivatives datasets on `https://github.com/OpenNeuroDatasets/` and not just
-  `https://github.com/OpenNeuroDerivatives/`
