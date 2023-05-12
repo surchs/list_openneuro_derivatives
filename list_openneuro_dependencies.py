@@ -20,6 +20,7 @@ def main():
     datasets = {
         "name": [],
         "has_participant_tsv": [],
+        "has_participant_json": [],
         "participant_columns": [],
         "has_phenotype_dir": [],
         "has_mri": [],
@@ -39,6 +40,7 @@ def main():
     datasets = {
         "name": [],
         "has_participant_tsv": [],
+        "has_participant_json": [],
         "participant_columns": [],
         "has_phenotype_dir": [],
         "has_mri": [],
@@ -78,6 +80,7 @@ def new_datatset(name: str) -> dict[str, str]:
     return {
         "name": name,
         "has_participant_tsv": "n/a",
+        "has_participant_json": "n/a",
         "participant_columns": "n/a",
         "has_phenotype_dir": "n/a",
         "has_mri": "n/a",
@@ -110,11 +113,10 @@ def list_openneuro(datalad_superdataset: Path, datasets: dict[str, dict[str, str
         datatset = new_datatset(dataset_name)
         datatset["nb_subjects"] = get_nb_subjects(dataset_pth)
         datatset["has_mri"] = has_mri(dataset_pth)
-        datatset["has_participant_tsv"] = bool((dataset_pth / "participants.tsv").exists())
-        if datatset["has_participant_tsv"]:
-            datatset["participant_columns"] = list_participants_tsv_columns(
-                dataset_pth / "participants.tsv"
-            )
+        tsv_status, json_status, columns = has_participant_tsv(dataset_pth)
+        datatset["has_participant_tsv"] = tsv_status
+        datatset["has_participant_json"] = json_status
+        datatset["participant_columns"] = columns
         datatset["has_phenotype_dir"] = bool((dataset_pth / "phenotype").exists())
 
         for der in [
@@ -130,6 +132,19 @@ def list_openneuro(datalad_superdataset: Path, datasets: dict[str, dict[str, str
             datasets[keys].append(datatset[keys])
 
     return datasets
+
+
+def has_participant_tsv(pth: Path):
+    tsv_status = bool((pth / "participants.tsv").exists())
+    json_status = bool((pth / "participants.json").exists())
+    columns = "n/a"
+    if tsv_status:
+        columns = list_participants_tsv_columns(pth / "participants.tsv")
+    # if json_status:
+    #     with open(pth / "participants.json") as f:
+    #         json_data = json.load(f)
+    #         print(json_data)
+    return tsv_status, json_status, columns
 
 
 def list_openneuro_derivatives(datalad_superdataset: Path, datasets: dict[str, dict[str, str]]):
@@ -150,13 +165,10 @@ def list_openneuro_derivatives(datalad_superdataset: Path, datasets: dict[str, d
         datatset["nb_subjects"] = get_nb_subjects(dataset_pth)
         datatset["has_mri"] = True
         datatset["mriqc"] = f"{URL_OPENNEURO_DERIVATIVES}{dataset_pth.name}"
-        datatset["has_participant_tsv"] = (
-            dataset_pth / "sourcedata" / "raw" / "participants.tsv"
-        ).exists()
-        if datatset["has_participant_tsv"]:
-            datatset["participant_columns"] = list_participants_tsv_columns(
-                dataset_pth / "sourcedata" / "raw" / "participants.tsv"
-            )
+        tsv_status, json_status, columns = has_participant_tsv(dataset_pth / "sourcedata" / "raw")
+        datatset["has_participant_tsv"] = tsv_status
+        datatset["has_participant_json"] = json_status
+        datatset["participant_columns"] = columns
         datatset["has_phenotype_dir"] = (dataset_pth / "sourcedata" / "raw" / "phenotype").exists()
 
         fmriprep_dataset = Path(str(dataset_pth).replace("mriqc", "fmriprep"))
@@ -178,13 +190,12 @@ def list_openneuro_derivatives(datalad_superdataset: Path, datasets: dict[str, d
             datatset["nb_subjects"] = get_nb_subjects(dataset_pth)
             datatset["has_mri"] = True
             datatset["fmriprep"] = f"{URL_OPENNEURO_DERIVATIVES}{dataset_pth.name}"
-            datatset["has_participant_tsv"] = (
-                dataset_pth / "sourcedata" / "raw" / "participants.tsv"
-            ).exists()
-            if datatset["has_participant_tsv"]:
-                datatset["participant_columns"] = list_participants_tsv_columns(
-                    dataset_pth / "sourcedata" / "raw" / "participants.tsv"
-                )
+            tsv_status, json_status, columns = has_participant_tsv(
+                dataset_pth / "sourcedata" / "raw"
+            )
+            datatset["has_participant_tsv"] = tsv_status
+            datatset["has_participant_json"] = json_status
+            datatset["participant_columns"] = columns
             datatset["has_phenotype_dir"] = (
                 dataset_pth / "sourcedata" / "raw" / "phenotype"
             ).exists()
