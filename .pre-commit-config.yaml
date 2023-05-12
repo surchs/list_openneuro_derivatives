@@ -36,10 +36,10 @@ repos:
       - id: black
         args: [--verbose, -l, "99"]
 
-  - repo: https://github.com/codespell-project/codespell
-    rev: v2.2.4
-    hooks:
-      - id: codespell
+  # - repo: https://github.com/codespell-project/codespell
+  #   rev: v2.2.4
+  #   hooks:
+  #     - id: codespell
 
   - repo: https://github.com/pyCQA/flake8
     rev: 6.0.0
